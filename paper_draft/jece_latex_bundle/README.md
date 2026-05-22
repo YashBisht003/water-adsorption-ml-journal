@@ -15,6 +15,12 @@ This exclusion is intentional and reported in the manuscript rather than hidden:
 the full cleaned dataset is audited, while the restricted-domain results are
 used for the primary ML claims.
 
+The main repeated-split random row-wise result is `R2 = 0.806` for the standard
+full-capacity LightGBM model. LightGBM sensitivity configurations improve the
+held-out validations to `R2 = 0.532` for adsorbent-held-out screening and
+`R2 = 0.330` for reference-held-out capacity-inclusive transfer. The best
+capacity-free reference-held-out screening result remains `R2 = 0.305`.
+
 ## Files
 
 - `main.tex`: manuscript source.
@@ -28,6 +34,7 @@ used for the primary ML claims.
 - `track_b_global_split_r2.png`: Track B validation comparison figure.
 - `track_a_within_source_cv.csv`: source-specific model results.
 - `track_b_global_summary_for_dual_track.csv`: global validation results.
+- `benchmark_summary_lgbm_sensitivity.csv`: LightGBM sensitivity benchmark.
 
 The figure and table files are also retained in `figures/` and `tables/` for
 project organization, but the root-level copies are the submission-friendly
@@ -54,6 +61,7 @@ From the project root:
 
 ```bash
 python scripts/run_leakage_aware_benchmark.py --out-dir results/leakage_aware_benchmark_no_neutral_low --seeds 5 --models dummy_mean xgboost extra_trees lightgbm --exclude-regimes Neutral_LowC0
+python scripts/run_leakage_aware_benchmark.py --out-dir results/leakage_aware_benchmark_no_neutral_low_lgbm_sensitivity --seeds 5 --models dummy_mean xgboost extra_trees lightgbm lightgbm_conservative lightgbm_deeper --exclude-regimes Neutral_LowC0
 python scripts/run_dual_track_analysis.py --out-dir results/dual_track_no_neutral_low --benchmark-dir results/leakage_aware_benchmark_no_neutral_low --exclude-regimes Neutral_LowC0
 ```
 

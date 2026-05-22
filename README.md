@@ -21,7 +21,8 @@ records, and the restricted primary modelling domain contains 537 records.
 
 - Source-specific Track A models reached `R2` up to 0.992.
 - Random row-wise full-capacity LightGBM reached `R2 = 0.806`.
-- Adsorbent-held-out capacity-free XGBoost reached `R2 = 0.520`.
+- Adsorbent-held-out capacity-free expanded LightGBM reached `R2 = 0.532`.
+- Reference-held-out full-capacity expanded LightGBM reached `R2 = 0.330`.
 - Reference-held-out capacity-free ExtraTrees reached `R2 = 0.305`.
 
 These results are intentionally framed as an applicability-domain and validation
@@ -34,6 +35,12 @@ python scripts/run_leakage_aware_benchmark.py \
   --out-dir results/leakage_aware_benchmark_no_neutral_low \
   --seeds 5 \
   --models dummy_mean xgboost extra_trees lightgbm \
+  --exclude-regimes Neutral_LowC0
+
+python scripts/run_leakage_aware_benchmark.py \
+  --out-dir results/leakage_aware_benchmark_no_neutral_low_lgbm_sensitivity \
+  --seeds 5 \
+  --models dummy_mean xgboost extra_trees lightgbm lightgbm_conservative lightgbm_deeper \
   --exclude-regimes Neutral_LowC0
 
 python scripts/run_dual_track_analysis.py \
@@ -58,4 +65,3 @@ The compiled manuscript PDF and LaTeX sources are in
 Before journal submission, add the verified corresponding-author email, deposit
 the curated data/code in a public repository if submission is public, and add
 explicit own-lab/external-lab labels if those labels are available.
-

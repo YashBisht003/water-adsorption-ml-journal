@@ -144,7 +144,17 @@ def load_track_b_summary(benchmark_dir: Path) -> pd.DataFrame:
         )
     summary = pd.read_csv(path)
     keep = summary[
-        (summary["model"].isin(["xgboost", "lightgbm", "extra_trees"]))
+        (
+            summary["model"].isin(
+                [
+                    "xgboost",
+                    "lightgbm",
+                    "extra_trees",
+                    "lightgbm_conservative",
+                    "lightgbm_deeper",
+                ]
+            )
+        )
         & summary["feature_set"].isin(
             [
                 "full_capacity_process_model",

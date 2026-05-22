@@ -349,6 +349,36 @@ def make_model(model_name: str, numeric: list[str], categorical: list[str], seed
             n_jobs=4,
             verbose=-1,
         )
+    elif model_name == "lightgbm_conservative":
+        estimator = LGBMRegressor(
+            n_estimators=600,
+            learning_rate=0.03,
+            max_depth=5,
+            num_leaves=20,
+            min_child_samples=25,
+            subsample=0.8,
+            colsample_bytree=0.8,
+            reg_alpha=0.5,
+            reg_lambda=1.0,
+            random_state=seed,
+            n_jobs=4,
+            verbose=-1,
+        )
+    elif model_name == "lightgbm_deeper":
+        estimator = LGBMRegressor(
+            n_estimators=500,
+            learning_rate=0.035,
+            max_depth=6,
+            num_leaves=40,
+            min_child_samples=10,
+            subsample=0.9,
+            colsample_bytree=0.9,
+            reg_alpha=0.05,
+            reg_lambda=0.2,
+            random_state=seed,
+            n_jobs=4,
+            verbose=-1,
+        )
     else:
         raise ValueError(f"Unknown model: {model_name}")
 

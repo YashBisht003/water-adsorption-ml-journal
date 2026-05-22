@@ -112,7 +112,7 @@ def workflow_figure() -> None:
         ax,
         (0.57, 0.25),
         (0.32, 0.22),
-        "Track B: external generalization\nrow-wise, adsorbent-held-out,\nreference-held-out splits\nbest held-out source R2 = 0.305",
+        "Track B: external generalization\nrow-wise, adsorbent-held-out,\nreference-held-out splits\nbest held-out source R2 = 0.330",
         "#fee2e2",
         size=10,
         weight="bold",
@@ -158,7 +158,7 @@ def graphical_abstract() -> None:
     add_box(ax, (0.04, 0.38), (0.22, 0.30), "Cleaned dataset\nn = 563\nmain domain n = 537", "#dbeafe", size=14, weight="bold")
     add_box(ax, (0.31, 0.38), (0.22, 0.30), "Sparse regime removed\nNeutral-low C0\nn = 26", "#fde68a", size=14, weight="bold")
     add_box(ax, (0.58, 0.38), (0.17, 0.30), "Track A\nwithin-source\nR2 up to 0.992", "#ccfbf1", size=14, weight="bold")
-    add_box(ax, (0.79, 0.38), (0.17, 0.30), "Track B\nreference-held-out\nbest R2 = 0.305", "#fee2e2", size=14, weight="bold")
+    add_box(ax, (0.79, 0.38), (0.17, 0.30), "Track B\nreference-held-out\nbest R2 = 0.330", "#fee2e2", size=14, weight="bold")
 
     add_arrow(ax, (0.26, 0.53), (0.31, 0.53), lw=2.0)
     add_arrow(ax, (0.53, 0.53), (0.58, 0.53), lw=2.0)
