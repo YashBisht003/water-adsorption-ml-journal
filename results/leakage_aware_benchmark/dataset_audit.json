@@ -1,0 +1,37 @@
+{
+  "input_file": "waterresearchpaper/data_2023(1).csv",
+  "raw_rows": 566,
+  "clean_rows": 563,
+  "dropped_rows": 3,
+  "unique_references": 189,
+  "unique_adsorbents": 219,
+  "unique_adsorbates": 16,
+  "regime_counts": {
+    "Acidic_HighC0": 246,
+    "Acidic_LowC0": 231,
+    "Neutral_HighC0": 60,
+    "Neutral_LowC0": 26
+  },
+  "adsorbate_counts_top20": {
+    "Cd2+": 146,
+    "Pb2+": 108,
+    "Ni2+": 86,
+    "Cr3+": 66,
+    "As3+": 48,
+    "Cu2+": 44,
+    "Cr6+": 21,
+    "Zn2+": 17,
+    "Co2+": 9,
+    "Hg2+": 7,
+    "Fe2+": 3,
+    "Tl+": 2,
+    "Mn2+": 2,
+    "As5+": 2,
+    "Ag": 1,
+    "V": 1
+  },
+  "lab_source_counts": {
+    "UNLABELED": 563
+  },
+  "lab_source_column_used": null
+}

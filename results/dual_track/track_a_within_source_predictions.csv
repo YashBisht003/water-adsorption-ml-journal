@@ -1,0 +1,862 @@
+Ref_group,feature_set,Adsorbent,Adsorbate,Adsorbate_group,Adsorbent_group,Initial Concentration(ppm),Dose(g/L),Initial pH,T(K),RE,Predicted_RE,Residual
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS650),As3+,As3+,Peanut shell (PS650),1.005,5.0,5.5,923.0,79.6,15.265762,-64.33423767089843
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk (BWH350),As3+,As3+,Buckwheat husk (BWH350),0.8025,5.0,5.5,623.0,36.44,28.509325,-7.930674972534177
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk (BWH350),As3+,As3+,Buckwheat husk (BWH350),0.6,5.0,5.5,623.0,37.5,30.784449,-6.715551376342773
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk (BWH350),As3+,As3+,Buckwheat husk (BWH350),1.005,5.0,5.5,623.0,29.1,32.047894,2.9478935241699205
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH450),As3+,As3+,Buckwheat husk(BWH450),0.8025,5.0,5.5,723.0,32.71,34.96449,2.254488983154296
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH450),As3+,As3+,Buckwheat husk(BWH450),0.6,5.0,5.5,723.0,36.25,40.26911,4.019111633300781
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH450),As3+,As3+,Buckwheat husk(BWH450),1.005,5.0,5.5,723.0,34.32,31.230955,-3.089044876098633
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH550),As3+,As3+,Buckwheat husk(BWH550),1.005,5.0,5.5,823.0,35.07,29.486307,-5.583692855834961
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH550),As3+,As3+,Buckwheat husk(BWH550),0.8025,5.0,5.5,823.0,29.9,31.987612,2.0876117706298842
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH550),As3+,As3+,Buckwheat husk(BWH550),0.6,5.0,5.5,823.0,41.25,33.21238,-8.037620544433594
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH650),As3+,As3+,Buckwheat husk(BWH650),0.6,5.0,5.5,923.0,35.0,27.41363,-7.586370468139648
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH650),As3+,As3+,Buckwheat husk(BWH650),1.005,5.0,5.5,923.0,20.14,31.23614,11.096139297485351
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH650),As3+,As3+,Buckwheat husk(BWH650),0.8025,5.0,5.5,923.0,31.77,24.898932,-6.871068496704101
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC350),As3+,As3+,Corncobs(CC350),0.6,5.0,5.5,623.0,33.75,32.148933,-1.6010665893554688
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC350),As3+,As3+,Corncobs(CC350),1.005,5.0,5.5,623.0,26.11,31.875475,5.765474929809571
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC350),As3+,As3+,Corncobs(CC350),0.8025,5.0,5.5,623.0,32.7,27.63218,-5.067820739746097
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC450),As3+,As3+,Corncobs(CC450),0.6,5.0,5.5,723.0,33.75,41.660553,7.910552978515625
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC450),As3+,As3+,Corncobs(CC450),0.8025,5.0,5.5,723.0,29.9,34.907467,5.007466888427736
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC550),As3+,As3+,Corncobs(CC550),0.6,5.0,5.5,823.0,11.25,7.585404,-3.6645960807800293
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC550),As3+,As3+,Corncobs(CC550),1.005,5.0,5.5,823.0,5.97,8.067298,2.09729793548584
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC550),As3+,As3+,Corncobs(CC550),0.8025,5.0,5.5,823.0,7.47,7.2329445,-0.23705551147460913
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC650),As3+,As3+,Corncobs(CC650),0.8025,5.0,5.5,923.0,22.42,28.53715,6.117149429321287
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC650),As3+,As3+,Corncobs(CC650),0.6,5.0,5.5,923.0,23.75,25.862282,2.1122817993164062
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC650),As3+,As3+,Corncobs(CC650),1.005,5.0,5.5,923.0,21.64,29.110786,7.470786437988281
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood (MW550),As3+,As3+,Mulberry wood (MW550),1.005,5.0,5.5,823.0,5.97,9.512084,3.542084007263184
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood (MW550),As3+,As3+,Mulberry wood (MW550),0.6,5.0,5.5,823.0,8.75,11.970622,3.2206220626831055
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood (MW550),As3+,As3+,Mulberry wood (MW550),0.8025,5.0,5.5,823.0,7.47,6.862472,-0.6075279426574705
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW350),As3+,As3+,Mulberry wood(MW350),0.8025,5.0,5.5,623.0,3.73,2.112929,-1.617070894241333
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW350),As3+,As3+,Mulberry wood(MW350),1.005,5.0,5.5,623.0,2.23,4.976961,2.746961135864258
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW350),As3+,As3+,Mulberry wood(MW350),0.6,5.0,5.5,623.0,3.75,7.776357,4.026357173919678
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW650),As3+,As3+,Mulberry wood(MW650),0.6,5.0,5.5,923.0,6.25,4.1656494,-2.0843505859375
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW650),As3+,As3+,Mulberry wood(MW650),1.005,5.0,5.5,923.0,3.73,7.1859083,3.455908317565918
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW650),As3+,As3+,Mulberry wood(MW650),0.8025,5.0,5.5,923.0,2.8,5.4310565,2.6310564994812013
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),0.8025,5.0,5.5,823.0,22.42,23.02208,0.6020794677734358
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),1.005,5.0,5.5,823.0,20.14,21.525494,1.3854936218261713
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),0.6,5.0,5.5,823.0,21.25,26.548668,5.298667907714844
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),0.6,5.0,5.5,823.0,26.25,22.200449,-4.049551010131836
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS650),As3+,As3+,Peanut shell (PS650),0.8025,5.0,5.5,923.0,16.82,22.319153,5.49915283203125
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS350),As3+,As3+,Peanut shell(PS350),1.005,5.0,5.5,623.0,23.88,22.176222,-1.7037781524658193
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS350),As3+,As3+,Peanut shell(PS350),0.6,5.0,5.5,623.0,23.75,27.221413,3.4714126586914062
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS350),As3+,As3+,Peanut shell(PS350),0.8025,5.0,5.5,623.0,23.36,24.136469,0.7764688873291021
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS450),As3+,As3+,Peanut shell(PS450),0.6,5.0,5.5,723.0,28.75,17.898825,-10.851175308227539
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS450),As3+,As3+,Peanut shell(PS450),0.8025,5.0,5.5,723.0,17.75,25.717205,7.967205047607422
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk (BWH350),Pb2+,Pb2+,Buckwheat husk (BWH350),0.99456,5.0,5.5,623.0,100.0,98.564964,-1.4350357055664062
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk (BWH350),Pb2+,Pb2+,Buckwheat husk (BWH350),0.80808,5.0,5.5,623.0,97.43,98.200905,0.7709048461913994
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk (BWH350),Pb2+,Pb2+,Buckwheat husk (BWH350),0.60088,5.0,5.5,623.0,100.0,98.69206,-1.3079376220703125
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH450),Pb2+,Pb2+,Buckwheat husk(BWH450),0.80808,5.0,5.5,723.0,97.43,97.339424,-0.09057586669922557
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH450),Pb2+,Pb2+,Buckwheat husk(BWH450),0.60088,5.0,5.5,723.0,100.0,98.21562,-1.7843780517578125
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH450),Pb2+,Pb2+,Buckwheat husk(BWH450),0.99456,5.0,5.5,723.0,100.0,98.768555,-1.2314453125
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH550),Pb2+,Pb2+,Buckwheat husk(BWH550),0.80808,5.0,5.5,823.0,100.0,98.97836,-1.021636962890625
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH550),Pb2+,Pb2+,Buckwheat husk(BWH550),0.99456,5.0,5.5,823.0,100.0,100.0,0.0
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH550),Pb2+,Pb2+,Buckwheat husk(BWH550),0.60088,5.0,5.5,823.0,100.0,100.0,0.0
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH650),Pb2+,Pb2+,Buckwheat husk(BWH650),0.60088,5.0,5.5,923.0,100.0,100.0,0.0
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH650),Pb2+,Pb2+,Buckwheat husk(BWH650),0.99456,5.0,5.5,923.0,100.0,99.86493,-0.13507080078125
+"(Zama et al., 2017)",full_capacity_process_model,Buckwheat husk(BWH650),Pb2+,Pb2+,Buckwheat husk(BWH650),0.80808,5.0,5.5,923.0,100.0,98.28289,-1.7171096801757812
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC350),Pb2+,Pb2+,Corncobs(CC350),0.60088,5.0,5.5,623.0,100.0,98.5955,-1.4045028686523438
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC350),Pb2+,Pb2+,Corncobs(CC350),0.80808,5.0,5.5,623.0,97.43,89.60249,-7.827506713867194
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC350),Pb2+,Pb2+,Corncobs(CC350),0.99456,5.0,5.5,623.0,100.0,89.83224,-10.167762756347656
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC450),Pb2+,Pb2+,Corncobs(CC450),0.60088,5.0,5.5,723.0,100.0,99.33614,-0.6638565063476562
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC450),Pb2+,Pb2+,Corncobs(CC450),0.80808,5.0,5.5,723.0,97.43,98.51719,1.0871890258788994
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC450),Pb2+,Pb2+,Corncobs(CC450),0.99456,5.0,5.5,723.0,100.0,99.559074,-0.44092559814453125
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC550),Pb2+,Pb2+,Corncobs(CC550),0.60088,5.0,5.5,823.0,96.55,99.1623,2.612300109863284
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC550),Pb2+,Pb2+,Corncobs(CC550),0.99456,5.0,5.5,823.0,95.83,98.18037,2.350366516113283
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC550),Pb2+,Pb2+,Corncobs(CC550),0.80808,5.0,5.5,823.0,97.43,96.329865,-1.1001354980468818
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC650),Pb2+,Pb2+,Corncobs(CC650),0.99456,5.0,5.5,923.0,97.91,96.63924,-1.270763549804684
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC650),Pb2+,Pb2+,Corncobs(CC650),0.60088,5.0,5.5,923.0,100.0,96.97945,-3.0205535888671875
+"(Zama et al., 2017)",full_capacity_process_model,Corncobs(CC650),Pb2+,Pb2+,Corncobs(CC650),0.80808,5.0,5.5,923.0,97.43,98.38211,0.9521105957031182
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood (MW550),Pb2+,Pb2+,Mulberry wood (MW550),0.80808,5.0,5.5,823.0,100.0,96.53097,-3.4690322875976562
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood (MW550),Pb2+,Pb2+,Mulberry wood (MW550),0.60088,5.0,5.5,823.0,100.0,96.91844,-3.0815582275390625
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood (MW550),Pb2+,Pb2+,Mulberry wood (MW550),0.99456,5.0,5.5,823.0,100.0,96.67452,-3.3254776000976562
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW350),Pb2+,Pb2+,Mulberry wood(MW350),0.99456,5.0,5.5,623.0,100.0,99.265656,-0.734344482421875
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW350),Pb2+,Pb2+,Mulberry wood(MW350),0.80808,5.0,5.5,623.0,97.43,99.140816,1.7108157348632744
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW350),Pb2+,Pb2+,Mulberry wood(MW350),0.60088,5.0,5.5,623.0,100.0,99.48012,-0.5198822021484375
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW450),Pb2+,Pb2+,Mulberry wood(MW450),0.60088,5.0,5.5,723.0,100.0,99.14987,-0.850128173828125
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW450),Pb2+,Pb2+,Mulberry wood(MW450),0.99456,5.0,5.5,723.0,100.0,98.80713,-1.19287109375
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW450),Pb2+,Pb2+,Mulberry wood(MW450),0.80808,5.0,5.5,723.0,97.43,99.82071,2.390709228515618
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW650),Pb2+,Pb2+,Mulberry wood(MW650),0.99456,5.0,5.5,923.0,100.0,100.0,0.0
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW650),Pb2+,Pb2+,Mulberry wood(MW650),0.80808,5.0,5.5,923.0,100.0,99.44338,-0.5566177368164062
+"(Zama et al., 2017)",full_capacity_process_model,Mulberry wood(MW650),Pb2+,Pb2+,Mulberry wood(MW650),0.60088,5.0,5.5,923.0,100.0,100.0,0.0
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS550),Pb2+,Pb2+,Peanut shell (PS550),0.60088,5.0,5.5,823.0,100.0,99.20459,-0.79541015625
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS550),Pb2+,Pb2+,Peanut shell (PS550),0.80808,5.0,5.5,823.0,97.43,97.53884,0.10884124755858693
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS550),Pb2+,Pb2+,Peanut shell (PS550),0.99456,5.0,5.5,823.0,100.0,89.36621,-10.6337890625
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS650),Pb2+,Pb2+,Peanut shell (PS650),0.80808,5.0,5.5,923.0,100.0,98.86806,-1.1319427490234375
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS650),Pb2+,Pb2+,Peanut shell (PS650),0.60088,5.0,5.5,923.0,100.0,99.63935,-0.36064910888671875
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell (PS650),Pb2+,Pb2+,Peanut shell (PS650),0.99456,5.0,5.5,923.0,100.0,98.84234,-1.1576614379882812
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS350),Pb2+,Pb2+,Peanut shell(PS350),0.80808,5.0,5.5,623.0,97.43,97.929535,0.4995349121093682
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS350),Pb2+,Pb2+,Peanut shell(PS350),0.60088,5.0,5.5,623.0,100.0,99.337746,-0.6622543334960938
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS350),Pb2+,Pb2+,Peanut shell(PS350),0.99456,5.0,5.5,623.0,100.0,99.241684,-0.7583160400390625
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS450),Pb2+,Pb2+,Peanut shell(PS450),0.99456,5.0,5.5,723.0,100.0,99.444145,-0.5558547973632812
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS450),Pb2+,Pb2+,Peanut shell(PS450),0.60088,5.0,5.5,723.0,100.0,99.40796,-0.592041015625
+"(Zama et al., 2017)",full_capacity_process_model,Peanut shell(PS450),Pb2+,Pb2+,Peanut shell(PS450),0.80808,5.0,5.5,723.0,97.43,98.41822,0.9882205200195244
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS650),As3+,As3+,Peanut shell (PS650),1.005,5.0,5.5,923.0,79.6,13.544283,-66.05571708679199
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk (BWH350),As3+,As3+,Buckwheat husk (BWH350),0.8025,5.0,5.5,623.0,36.44,29.62709,-6.812909545898435
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk (BWH350),As3+,As3+,Buckwheat husk (BWH350),0.6,5.0,5.5,623.0,37.5,30.792068,-6.7079315185546875
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk (BWH350),As3+,As3+,Buckwheat husk (BWH350),1.005,5.0,5.5,623.0,29.1,29.892954,0.7929538726806626
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH450),As3+,As3+,Buckwheat husk(BWH450),0.8025,5.0,5.5,723.0,32.71,35.369904,2.659903564453124
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH450),As3+,As3+,Buckwheat husk(BWH450),0.6,5.0,5.5,723.0,36.25,38.65549,2.4054908752441406
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH450),As3+,As3+,Buckwheat husk(BWH450),1.005,5.0,5.5,723.0,34.32,29.265718,-5.0542815399169925
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH550),As3+,As3+,Buckwheat husk(BWH550),1.005,5.0,5.5,823.0,35.07,14.012974,-21.05702621459961
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH550),As3+,As3+,Buckwheat husk(BWH550),0.8025,5.0,5.5,823.0,29.9,22.321724,-7.578276062011717
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH550),As3+,As3+,Buckwheat husk(BWH550),0.6,5.0,5.5,823.0,41.25,28.068577,-13.18142318725586
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH650),As3+,As3+,Buckwheat husk(BWH650),0.6,5.0,5.5,923.0,35.0,23.49287,-11.507129669189453
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH650),As3+,As3+,Buckwheat husk(BWH650),1.005,5.0,5.5,923.0,20.14,40.68585,20.545848236083984
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH650),As3+,As3+,Buckwheat husk(BWH650),0.8025,5.0,5.5,923.0,31.77,20.02693,-11.74307014465332
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC350),As3+,As3+,Corncobs(CC350),0.6,5.0,5.5,623.0,33.75,30.513805,-3.236194610595703
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC350),As3+,As3+,Corncobs(CC350),1.005,5.0,5.5,623.0,26.11,30.527418,4.41741813659668
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC350),As3+,As3+,Corncobs(CC350),0.8025,5.0,5.5,623.0,32.7,30.084677,-2.615323257446292
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC450),As3+,As3+,Corncobs(CC450),0.6,5.0,5.5,723.0,33.75,28.90065,-4.8493499755859375
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC450),As3+,As3+,Corncobs(CC450),0.8025,5.0,5.5,723.0,29.9,26.144266,-3.7557338714599595
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC550),As3+,As3+,Corncobs(CC550),0.6,5.0,5.5,823.0,11.25,12.76199,1.5119895935058594
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC550),As3+,As3+,Corncobs(CC550),1.005,5.0,5.5,823.0,5.97,17.054197,11.084197311401368
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC550),As3+,As3+,Corncobs(CC550),0.8025,5.0,5.5,823.0,7.47,11.567091,4.09709098815918
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC650),As3+,As3+,Corncobs(CC650),0.8025,5.0,5.5,923.0,22.42,22.213135,-0.2068652343750017
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC650),As3+,As3+,Corncobs(CC650),0.6,5.0,5.5,923.0,23.75,21.48813,-2.261869430541992
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC650),As3+,As3+,Corncobs(CC650),1.005,5.0,5.5,923.0,21.64,22.488554,0.8485540008544916
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood (MW550),As3+,As3+,Mulberry wood (MW550),1.005,5.0,5.5,823.0,5.97,6.3946667,0.42466667175292994
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood (MW550),As3+,As3+,Mulberry wood (MW550),0.6,5.0,5.5,823.0,8.75,13.331987,4.581987380981445
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood (MW550),As3+,As3+,Mulberry wood (MW550),0.8025,5.0,5.5,823.0,7.47,8.8400135,1.3700135040283206
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW350),As3+,As3+,Mulberry wood(MW350),0.8025,5.0,5.5,623.0,3.73,11.9118395,8.181839485168457
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW350),As3+,As3+,Mulberry wood(MW350),1.005,5.0,5.5,623.0,2.23,16.924974,14.69497444152832
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW350),As3+,As3+,Mulberry wood(MW350),0.6,5.0,5.5,623.0,3.75,21.120451,17.370450973510742
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW650),As3+,As3+,Mulberry wood(MW650),0.6,5.0,5.5,923.0,6.25,11.498866,5.248866081237793
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW650),As3+,As3+,Mulberry wood(MW650),1.005,5.0,5.5,923.0,3.73,57.047604,53.31760360717774
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW650),As3+,As3+,Mulberry wood(MW650),0.8025,5.0,5.5,923.0,2.8,23.034517,20.234517288208007
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),0.8025,5.0,5.5,823.0,22.42,26.138683,3.718683319091795
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),1.005,5.0,5.5,823.0,20.14,25.238503,5.098502502441406
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),0.6,5.0,5.5,823.0,21.25,25.823889,4.573888778686523
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),0.6,5.0,5.5,823.0,26.25,19.797611,-6.452388763427734
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS650),As3+,As3+,Peanut shell (PS650),0.8025,5.0,5.5,923.0,16.82,30.270073,13.450072937011718
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS350),As3+,As3+,Peanut shell(PS350),1.005,5.0,5.5,623.0,23.88,24.755999,0.8759986114501963
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS350),As3+,As3+,Peanut shell(PS350),0.6,5.0,5.5,623.0,23.75,27.803604,4.0536041259765625
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS350),As3+,As3+,Peanut shell(PS350),0.8025,5.0,5.5,623.0,23.36,24.03275,0.6727491760253912
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS450),As3+,As3+,Peanut shell(PS450),0.6,5.0,5.5,723.0,28.75,27.939383,-0.8106174468994141
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS450),As3+,As3+,Peanut shell(PS450),0.8025,5.0,5.5,723.0,17.75,29.2139,11.463899612426758
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk (BWH350),Pb2+,Pb2+,Buckwheat husk (BWH350),0.99456,5.0,5.5,623.0,100.0,98.71747,-1.28253173828125
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk (BWH350),Pb2+,Pb2+,Buckwheat husk (BWH350),0.80808,5.0,5.5,623.0,97.43,97.895645,0.4656451416015557
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk (BWH350),Pb2+,Pb2+,Buckwheat husk (BWH350),0.60088,5.0,5.5,623.0,100.0,99.124054,-0.875946044921875
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH450),Pb2+,Pb2+,Buckwheat husk(BWH450),0.80808,5.0,5.5,723.0,97.43,97.63439,0.20439178466796193
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH450),Pb2+,Pb2+,Buckwheat husk(BWH450),0.60088,5.0,5.5,723.0,100.0,98.58438,-1.415618896484375
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH450),Pb2+,Pb2+,Buckwheat husk(BWH450),0.99456,5.0,5.5,723.0,100.0,98.70331,-1.29669189453125
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH550),Pb2+,Pb2+,Buckwheat husk(BWH550),0.80808,5.0,5.5,823.0,100.0,98.692795,-1.3072052001953125
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH550),Pb2+,Pb2+,Buckwheat husk(BWH550),0.99456,5.0,5.5,823.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH550),Pb2+,Pb2+,Buckwheat husk(BWH550),0.60088,5.0,5.5,823.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH650),Pb2+,Pb2+,Buckwheat husk(BWH650),0.60088,5.0,5.5,923.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH650),Pb2+,Pb2+,Buckwheat husk(BWH650),0.99456,5.0,5.5,923.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_plus_ion,Buckwheat husk(BWH650),Pb2+,Pb2+,Buckwheat husk(BWH650),0.80808,5.0,5.5,923.0,100.0,99.68296,-0.31703948974609375
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC350),Pb2+,Pb2+,Corncobs(CC350),0.60088,5.0,5.5,623.0,100.0,99.2605,-0.739501953125
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC350),Pb2+,Pb2+,Corncobs(CC350),0.80808,5.0,5.5,623.0,97.43,98.58005,1.1500476074218682
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC350),Pb2+,Pb2+,Corncobs(CC350),0.99456,5.0,5.5,623.0,100.0,99.10487,-0.8951263427734375
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC450),Pb2+,Pb2+,Corncobs(CC450),0.60088,5.0,5.5,723.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC450),Pb2+,Pb2+,Corncobs(CC450),0.80808,5.0,5.5,723.0,97.43,99.06935,1.6393511962890557
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC450),Pb2+,Pb2+,Corncobs(CC450),0.99456,5.0,5.5,723.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC550),Pb2+,Pb2+,Corncobs(CC550),0.60088,5.0,5.5,823.0,96.55,98.75384,2.2038375854492216
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC550),Pb2+,Pb2+,Corncobs(CC550),0.99456,5.0,5.5,823.0,95.83,98.29979,2.469789428710939
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC550),Pb2+,Pb2+,Corncobs(CC550),0.80808,5.0,5.5,823.0,97.43,96.20536,-1.2246395874023506
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC650),Pb2+,Pb2+,Corncobs(CC650),0.99456,5.0,5.5,923.0,97.91,96.651245,-1.2587548828124966
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC650),Pb2+,Pb2+,Corncobs(CC650),0.60088,5.0,5.5,923.0,100.0,97.2212,-2.7788009643554688
+"(Zama et al., 2017)",screening_safe_plus_ion,Corncobs(CC650),Pb2+,Pb2+,Corncobs(CC650),0.80808,5.0,5.5,923.0,97.43,98.77537,1.3453677368163994
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood (MW550),Pb2+,Pb2+,Mulberry wood (MW550),0.80808,5.0,5.5,823.0,100.0,96.50644,-3.493560791015625
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood (MW550),Pb2+,Pb2+,Mulberry wood (MW550),0.60088,5.0,5.5,823.0,100.0,96.76115,-3.2388534545898438
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood (MW550),Pb2+,Pb2+,Mulberry wood (MW550),0.99456,5.0,5.5,823.0,100.0,96.304474,-3.695526123046875
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW350),Pb2+,Pb2+,Mulberry wood(MW350),0.99456,5.0,5.5,623.0,100.0,99.785446,-0.2145538330078125
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW350),Pb2+,Pb2+,Mulberry wood(MW350),0.80808,5.0,5.5,623.0,97.43,98.94512,1.515121765136712
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW350),Pb2+,Pb2+,Mulberry wood(MW350),0.60088,5.0,5.5,623.0,100.0,98.90892,-1.0910797119140625
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW450),Pb2+,Pb2+,Mulberry wood(MW450),0.60088,5.0,5.5,723.0,100.0,99.069244,-0.930755615234375
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW450),Pb2+,Pb2+,Mulberry wood(MW450),0.99456,5.0,5.5,723.0,100.0,97.85067,-2.1493301391601562
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW450),Pb2+,Pb2+,Mulberry wood(MW450),0.80808,5.0,5.5,723.0,97.43,99.08082,1.6508181762695244
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW650),Pb2+,Pb2+,Mulberry wood(MW650),0.99456,5.0,5.5,923.0,100.0,99.19751,-0.802490234375
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW650),Pb2+,Pb2+,Mulberry wood(MW650),0.80808,5.0,5.5,923.0,100.0,98.43131,-1.5686874389648438
+"(Zama et al., 2017)",screening_safe_plus_ion,Mulberry wood(MW650),Pb2+,Pb2+,Mulberry wood(MW650),0.60088,5.0,5.5,923.0,100.0,99.84396,-0.156036376953125
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS550),Pb2+,Pb2+,Peanut shell (PS550),0.60088,5.0,5.5,823.0,100.0,99.34904,-0.6509628295898438
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS550),Pb2+,Pb2+,Peanut shell (PS550),0.80808,5.0,5.5,823.0,97.43,99.07581,1.6458132934570244
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS550),Pb2+,Pb2+,Peanut shell (PS550),0.99456,5.0,5.5,823.0,100.0,99.346466,-0.653533935546875
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS650),Pb2+,Pb2+,Peanut shell (PS650),0.80808,5.0,5.5,923.0,100.0,98.06615,-1.9338531494140625
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS650),Pb2+,Pb2+,Peanut shell (PS650),0.60088,5.0,5.5,923.0,100.0,99.030525,-0.9694747924804688
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell (PS650),Pb2+,Pb2+,Peanut shell (PS650),0.99456,5.0,5.5,923.0,100.0,99.553665,-0.4463348388671875
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS350),Pb2+,Pb2+,Peanut shell(PS350),0.80808,5.0,5.5,623.0,97.43,97.668495,0.23849517822264943
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS350),Pb2+,Pb2+,Peanut shell(PS350),0.60088,5.0,5.5,623.0,100.0,98.68589,-1.3141098022460938
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS350),Pb2+,Pb2+,Peanut shell(PS350),0.99456,5.0,5.5,623.0,100.0,99.50804,-0.4919586181640625
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS450),Pb2+,Pb2+,Peanut shell(PS450),0.99456,5.0,5.5,723.0,100.0,99.381645,-0.6183547973632812
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS450),Pb2+,Pb2+,Peanut shell(PS450),0.60088,5.0,5.5,723.0,100.0,99.91128,-0.08872222900390625
+"(Zama et al., 2017)",screening_safe_plus_ion,Peanut shell(PS450),Pb2+,Pb2+,Peanut shell(PS450),0.80808,5.0,5.5,723.0,97.43,96.920586,-0.5094143676757881
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS650),As3+,As3+,Peanut shell (PS650),1.005,5.0,5.5,923.0,79.6,9.8853655,-69.71463451385497
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk (BWH350),As3+,As3+,Buckwheat husk (BWH350),0.8025,5.0,5.5,623.0,36.44,31.105524,-5.334475936889646
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk (BWH350),As3+,As3+,Buckwheat husk (BWH350),0.6,5.0,5.5,623.0,37.5,32.77187,-4.728130340576172
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk (BWH350),As3+,As3+,Buckwheat husk (BWH350),1.005,5.0,5.5,623.0,29.1,24.359684,-4.740316009521486
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH450),As3+,As3+,Buckwheat husk(BWH450),0.8025,5.0,5.5,723.0,32.71,34.619255,1.909255065917968
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH450),As3+,As3+,Buckwheat husk(BWH450),0.6,5.0,5.5,723.0,36.25,38.65047,2.400470733642578
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH450),As3+,As3+,Buckwheat husk(BWH450),1.005,5.0,5.5,723.0,34.32,25.101652,-9.218347854614258
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH550),As3+,As3+,Buckwheat husk(BWH550),1.005,5.0,5.5,823.0,35.07,11.90072,-23.16928035736084
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH550),As3+,As3+,Buckwheat husk(BWH550),0.8025,5.0,5.5,823.0,29.9,26.797958,-3.102041625976561
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH550),As3+,As3+,Buckwheat husk(BWH550),0.6,5.0,5.5,823.0,41.25,26.093441,-15.156558990478516
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH650),As3+,As3+,Buckwheat husk(BWH650),0.6,5.0,5.5,923.0,35.0,26.88435,-8.115650177001953
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH650),As3+,As3+,Buckwheat husk(BWH650),1.005,5.0,5.5,923.0,20.14,65.4932,45.353202209472656
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH650),As3+,As3+,Buckwheat husk(BWH650),0.8025,5.0,5.5,923.0,31.77,21.517113,-10.252887268066406
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC350),As3+,As3+,Corncobs(CC350),0.6,5.0,5.5,623.0,33.75,26.618942,-7.1310577392578125
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC350),As3+,As3+,Corncobs(CC350),1.005,5.0,5.5,623.0,26.11,23.529095,-2.5809053039550776
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC350),As3+,As3+,Corncobs(CC350),0.8025,5.0,5.5,623.0,32.7,27.258963,-5.441037368774417
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC450),As3+,As3+,Corncobs(CC450),0.6,5.0,5.5,723.0,33.75,21.415941,-12.33405876159668
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC450),As3+,As3+,Corncobs(CC450),0.8025,5.0,5.5,723.0,29.9,24.70578,-5.194219970703124
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC550),As3+,As3+,Corncobs(CC550),0.6,5.0,5.5,823.0,11.25,13.686357,2.436356544494629
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC550),As3+,As3+,Corncobs(CC550),1.005,5.0,5.5,823.0,5.97,27.906122,21.936122207641603
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC550),As3+,As3+,Corncobs(CC550),0.8025,5.0,5.5,823.0,7.47,14.123768,6.653767852783203
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC650),As3+,As3+,Corncobs(CC650),0.8025,5.0,5.5,923.0,22.42,16.803148,-5.616851730346681
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC650),As3+,As3+,Corncobs(CC650),0.6,5.0,5.5,923.0,23.75,14.43478,-9.31521987915039
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC650),As3+,As3+,Corncobs(CC650),1.005,5.0,5.5,923.0,21.64,33.51616,11.876159057617187
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood (MW550),As3+,As3+,Mulberry wood (MW550),1.005,5.0,5.5,823.0,5.97,28.612764,22.64276435852051
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood (MW550),As3+,As3+,Mulberry wood (MW550),0.6,5.0,5.5,823.0,8.75,22.725296,13.975296020507812
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood (MW550),As3+,As3+,Mulberry wood (MW550),0.8025,5.0,5.5,823.0,7.47,19.016804,11.54680374145508
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW350),As3+,As3+,Mulberry wood(MW350),0.8025,5.0,5.5,623.0,3.73,25.867996,22.137996215820312
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW350),As3+,As3+,Mulberry wood(MW350),1.005,5.0,5.5,623.0,2.23,28.324684,26.094684143066406
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW350),As3+,As3+,Mulberry wood(MW350),0.6,5.0,5.5,623.0,3.75,33.68188,29.931880950927734
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW650),As3+,As3+,Mulberry wood(MW650),0.6,5.0,5.5,923.0,6.25,30.4064,24.156400680541992
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW650),As3+,As3+,Mulberry wood(MW650),1.005,5.0,5.5,923.0,3.73,73.21689,69.48688842773437
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW650),As3+,As3+,Mulberry wood(MW650),0.8025,5.0,5.5,923.0,2.8,24.100834,21.300833892822265
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),0.8025,5.0,5.5,823.0,22.42,20.238483,-2.1815165710449236
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),1.005,5.0,5.5,823.0,20.14,10.517497,-9.622502937316895
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),0.6,5.0,5.5,823.0,21.25,25.713089,4.4630889892578125
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS550),As3+,As3+,Peanut shell (PS550),0.6,5.0,5.5,823.0,26.25,20.611208,-5.638792037963867
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS650),As3+,As3+,Peanut shell (PS650),0.8025,5.0,5.5,923.0,16.82,15.040506,-1.7794936370849612
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS350),As3+,As3+,Peanut shell(PS350),1.005,5.0,5.5,623.0,23.88,8.568563,-15.311436538696288
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS350),As3+,As3+,Peanut shell(PS350),0.6,5.0,5.5,623.0,23.75,28.559038,4.809038162231445
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS350),As3+,As3+,Peanut shell(PS350),0.8025,5.0,5.5,623.0,23.36,23.447626,0.08762611389160213
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS450),As3+,As3+,Peanut shell(PS450),0.6,5.0,5.5,723.0,28.75,31.653242,2.9032421112060547
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS450),As3+,As3+,Peanut shell(PS450),0.8025,5.0,5.5,723.0,17.75,27.605787,9.85578727722168
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk (BWH350),Pb2+,Pb2+,Buckwheat husk (BWH350),0.99456,5.0,5.5,623.0,100.0,96.08446,-3.9155426025390625
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk (BWH350),Pb2+,Pb2+,Buckwheat husk (BWH350),0.80808,5.0,5.5,623.0,97.43,98.626854,1.196853942871087
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk (BWH350),Pb2+,Pb2+,Buckwheat husk (BWH350),0.60088,5.0,5.5,623.0,100.0,98.411415,-1.5885848999023438
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH450),Pb2+,Pb2+,Buckwheat husk(BWH450),0.80808,5.0,5.5,723.0,97.43,95.83377,-1.5962292480468818
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH450),Pb2+,Pb2+,Buckwheat husk(BWH450),0.60088,5.0,5.5,723.0,100.0,99.5333,-0.46669769287109375
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH450),Pb2+,Pb2+,Buckwheat husk(BWH450),0.99456,5.0,5.5,723.0,100.0,96.13676,-3.8632431030273438
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH550),Pb2+,Pb2+,Buckwheat husk(BWH550),0.80808,5.0,5.5,823.0,100.0,99.63324,-0.36676025390625
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH550),Pb2+,Pb2+,Buckwheat husk(BWH550),0.99456,5.0,5.5,823.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH550),Pb2+,Pb2+,Buckwheat husk(BWH550),0.60088,5.0,5.5,823.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH650),Pb2+,Pb2+,Buckwheat husk(BWH650),0.60088,5.0,5.5,923.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH650),Pb2+,Pb2+,Buckwheat husk(BWH650),0.99456,5.0,5.5,923.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_numeric_only,Buckwheat husk(BWH650),Pb2+,Pb2+,Buckwheat husk(BWH650),0.80808,5.0,5.5,923.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC350),Pb2+,Pb2+,Corncobs(CC350),0.60088,5.0,5.5,623.0,100.0,98.08456,-1.9154434204101562
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC350),Pb2+,Pb2+,Corncobs(CC350),0.80808,5.0,5.5,623.0,97.43,99.74342,2.3134234619140557
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC350),Pb2+,Pb2+,Corncobs(CC350),0.99456,5.0,5.5,623.0,100.0,97.01152,-2.9884796142578125
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC450),Pb2+,Pb2+,Corncobs(CC450),0.60088,5.0,5.5,723.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC450),Pb2+,Pb2+,Corncobs(CC450),0.80808,5.0,5.5,723.0,97.43,98.85759,1.4275897216796807
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC450),Pb2+,Pb2+,Corncobs(CC450),0.99456,5.0,5.5,723.0,100.0,99.8469,-0.15309906005859375
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC550),Pb2+,Pb2+,Corncobs(CC550),0.60088,5.0,5.5,823.0,96.55,91.54709,-5.002911376953122
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC550),Pb2+,Pb2+,Corncobs(CC550),0.99456,5.0,5.5,823.0,95.83,95.19179,-0.6382122802734358
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC550),Pb2+,Pb2+,Corncobs(CC550),0.80808,5.0,5.5,823.0,97.43,95.996994,-1.4330059814453193
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC650),Pb2+,Pb2+,Corncobs(CC650),0.99456,5.0,5.5,923.0,97.91,89.93862,-7.971378479003903
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC650),Pb2+,Pb2+,Corncobs(CC650),0.60088,5.0,5.5,923.0,100.0,89.46123,-10.538772583007812
+"(Zama et al., 2017)",screening_safe_numeric_only,Corncobs(CC650),Pb2+,Pb2+,Corncobs(CC650),0.80808,5.0,5.5,923.0,97.43,100.0,2.569999999999993
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood (MW550),Pb2+,Pb2+,Mulberry wood (MW550),0.80808,5.0,5.5,823.0,100.0,82.09529,-17.904708862304688
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood (MW550),Pb2+,Pb2+,Mulberry wood (MW550),0.60088,5.0,5.5,823.0,100.0,83.18848,-16.8115234375
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood (MW550),Pb2+,Pb2+,Mulberry wood (MW550),0.99456,5.0,5.5,823.0,100.0,85.82054,-14.179458618164062
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW350),Pb2+,Pb2+,Mulberry wood(MW350),0.99456,5.0,5.5,623.0,100.0,97.263374,-2.7366256713867188
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW350),Pb2+,Pb2+,Mulberry wood(MW350),0.80808,5.0,5.5,623.0,97.43,90.56133,-6.868667297363288
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW350),Pb2+,Pb2+,Mulberry wood(MW350),0.60088,5.0,5.5,623.0,100.0,95.774025,-4.225975036621094
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW450),Pb2+,Pb2+,Mulberry wood(MW450),0.60088,5.0,5.5,723.0,100.0,90.44878,-9.551223754882812
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW450),Pb2+,Pb2+,Mulberry wood(MW450),0.99456,5.0,5.5,723.0,100.0,97.4593,-2.5407028198242188
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW450),Pb2+,Pb2+,Mulberry wood(MW450),0.80808,5.0,5.5,723.0,97.43,99.17852,1.748520202636712
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW650),Pb2+,Pb2+,Mulberry wood(MW650),0.99456,5.0,5.5,923.0,100.0,97.84505,-2.1549530029296875
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW650),Pb2+,Pb2+,Mulberry wood(MW650),0.80808,5.0,5.5,923.0,100.0,92.86028,-7.139717102050781
+"(Zama et al., 2017)",screening_safe_numeric_only,Mulberry wood(MW650),Pb2+,Pb2+,Mulberry wood(MW650),0.60088,5.0,5.5,923.0,100.0,89.687675,-10.312324523925781
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS550),Pb2+,Pb2+,Peanut shell (PS550),0.60088,5.0,5.5,823.0,100.0,93.384,-6.615997314453125
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS550),Pb2+,Pb2+,Peanut shell (PS550),0.80808,5.0,5.5,823.0,97.43,97.69399,0.26399261474608693
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS550),Pb2+,Pb2+,Peanut shell (PS550),0.99456,5.0,5.5,823.0,100.0,98.31428,-1.6857223510742188
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS650),Pb2+,Pb2+,Peanut shell (PS650),0.80808,5.0,5.5,923.0,100.0,96.61671,-3.3832931518554688
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS650),Pb2+,Pb2+,Peanut shell (PS650),0.60088,5.0,5.5,923.0,100.0,92.223526,-7.7764739990234375
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell (PS650),Pb2+,Pb2+,Peanut shell (PS650),0.99456,5.0,5.5,923.0,100.0,100.0,0.0
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS350),Pb2+,Pb2+,Peanut shell(PS350),0.80808,5.0,5.5,623.0,97.43,97.93938,0.5093768310546807
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS350),Pb2+,Pb2+,Peanut shell(PS350),0.60088,5.0,5.5,623.0,100.0,97.57571,-2.4242935180664062
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS350),Pb2+,Pb2+,Peanut shell(PS350),0.99456,5.0,5.5,623.0,100.0,99.66165,-0.338348388671875
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS450),Pb2+,Pb2+,Peanut shell(PS450),0.99456,5.0,5.5,723.0,100.0,98.424736,-1.5752639770507812
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS450),Pb2+,Pb2+,Peanut shell(PS450),0.60088,5.0,5.5,723.0,100.0,98.79244,-1.2075576782226562
+"(Zama et al., 2017)",screening_safe_numeric_only,Peanut shell(PS450),Pb2+,Pb2+,Peanut shell(PS450),0.80808,5.0,5.5,723.0,97.43,97.38721,-0.04279296875000682
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,7.0,823.0,12.9,13.149062,0.24906215667724574
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),19.56,5.0,5.0,973.0,99.36,89.35124,-10.008757934570312
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,6.0,823.0,12.75,13.186197,0.43619728088378906
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,2.0,823.0,4.85,8.422104,3.572103881835938
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),14.67,5.0,5.0,973.0,99.68,98.219666,-1.4603344726562568
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,10.0,823.0,95.34,99.70907,4.36906829833984
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),7.33,5.0,5.0,973.0,99.04,99.471375,0.43137451171874375
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),11.73,5.0,5.0,973.0,99.85,98.31889,-1.5311065673828068
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,2.0,973.0,6.08,8.422104,2.3421038818359374
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),29.34,5.0,5.0,973.0,65.96,58.65294,-7.307061157226556
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),19.56,5.0,5.0,823.0,57.15,55.705235,-1.444765472412108
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),5.869,5.0,5.0,823.0,87.4,83.519005,-3.880995178222662
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),14.67,5.0,5.0,823.0,72.32,67.327576,-4.992424316406243
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),29.34,5.0,5.0,973.0,35.94,37.40177,1.4617715454101585
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),7.33,5.0,5.0,823.0,99.04,97.88161,-1.1583929443359438
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,5.0,973.0,18.63,18.656334,0.026333923339844745
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),9.78,5.0,5.0,973.0,99.46,97.37597,-2.084031066894525
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,3.0,973.0,10.34,12.998283,2.658283386230469
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,7.0,823.0,24.9,23.329714,-1.5702861785888658
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,3.0,823.0,12.47,13.540164,1.0701639938354486
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,8.0,973.0,23.13,20.939524,-2.190476303100585
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),6.52,5.0,5.0,823.0,81.9,72.15916,-9.7408432006836
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,5.0,973.0,39.12,40.591076,1.4710758972167994
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,9.0,823.0,99.7,97.65132,-2.0486785888671903
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),9.78,5.0,5.0,823.0,59.14,54.77741,-4.362591400146485
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),14.67,5.0,5.0,973.0,65.52,64.53458,-0.985423583984371
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),5.86,5.0,5.0,973.0,99.7,98.42409,-1.2759124755859403
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,4.0,823.0,12.11,11.656587,-0.453413352966308
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,10.0,823.0,99.83,96.15289,-3.6771069335937483
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),6.52,5.0,5.0,973.0,99.36,98.76858,-0.5914224243164057
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,2.0,973.0,9.31,8.516557,-0.7934432601928716
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,9.0,823.0,97.98,93.82273,-4.157268981933598
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),9.78,5.0,5.0,823.0,95.5,90.11157,-5.388427734375
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,8.0,823.0,26.73,25.519972,-1.2100281524658207
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,3.0,823.0,8.05,10.848217,2.798217010498046
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),29.34,5.0,5.0,823.0,23.36,20.278038,-3.0819619750976557
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,7.0,973.0,38.87,38.673275,-0.19672500610351307
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,9.0,973.0,99.83,99.60529,-0.22470672607421704
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,4.0,973.0,38.76,35.9307,-2.8293016052246074
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),8.38,5.0,5.0,823.0,67.45,68.22154,0.7715423583984347
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),19.56,5.0,5.0,973.0,51.48,56.686077,5.206077117919925
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),11.73,5.0,5.0,823.0,50.8,44.72049,-6.079510498046872
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,3.0,973.0,24.8,23.24981,-1.550190734863282
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),14.67,5.0,5.0,823.0,42.0,44.854908,2.854907989501953
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,4.0,823.0,23.66,23.841534,0.18153366088867173
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,7.0,973.0,19.72,19.625992,-0.09400817871093636
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),7.33,5.0,5.0,823.0,75.2,70.26235,-4.937648010253909
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,8.0,973.0,39.53,38.87666,-0.6533406066894543
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),8.38,5.0,5.0,973.0,96.22,95.97199,-0.2480075073242176
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,6.0,973.0,19.72,19.64554,-0.07445976257324105
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),29.34,5.0,5.0,823.0,43.28,38.06013,-5.219868927001954
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,6.0,823.0,25.28,23.402395,-1.8776047515869152
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),11.73,5.0,5.0,973.0,79.1,74.530106,-4.569894409179682
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,8.0,823.0,15.77,13.845164,-1.924835700988769
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,4.0,973.0,18.35,15.572631,-2.777369117736818
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),19.56,5.0,5.0,823.0,32.67,33.66945,0.9994488525390608
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,10.0,973.0,100.0,97.77508,-2.2249221801757812
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),9.78,5.0,5.0,973.0,89.02,91.064095,2.0440945434570352
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,2.0,823.0,6.03,6.2607145,0.23071453094482397
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,5.0,823.0,23.85,24.716482,0.8664821624755845
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,6.0,973.0,38.89,38.33496,-0.5550390625000006
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,9.0,973.0,99.85,99.83282,-0.017182922363275566
+"(Shen et al., 2017b)",full_capacity_process_model,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,5.0,823.0,12.42,12.041041,-0.37895862579345696
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),8.38,5.0,5.0,823.0,98.04,96.431404,-1.608595886230475
+"(Shen et al., 2017b)",full_capacity_process_model,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),11.73,5.0,5.0,823.0,85.85,81.61904,-4.230958557128901
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,7.0,823.0,12.9,21.451214,8.551213836669922
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),19.56,5.0,5.0,973.0,99.36,58.44357,-40.91643081665039
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,6.0,823.0,12.75,13.5196295,0.7696294784545898
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,2.0,823.0,4.85,8.894002,4.044001960754395
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),14.67,5.0,5.0,973.0,99.68,90.02749,-9.652511291503913
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,10.0,823.0,95.34,99.10275,3.7627526855468716
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),7.33,5.0,5.0,973.0,99.04,93.50177,-5.538229980468756
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),11.73,5.0,5.0,973.0,99.85,90.735916,-9.114083862304682
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,2.0,973.0,6.08,7.486046,1.4060458374023437
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),29.34,5.0,5.0,973.0,65.96,40.600098,-25.359902343749994
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),19.56,5.0,5.0,823.0,57.15,70.07225,12.922250366210939
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),5.869,5.0,5.0,823.0,87.4,80.29925,-7.100752258300787
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),14.67,5.0,5.0,823.0,72.32,74.26543,1.9454266357421943
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),29.34,5.0,5.0,973.0,35.94,67.75756,31.81756072998047
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),7.33,5.0,5.0,823.0,99.04,98.25639,-0.7836065673828188
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,5.0,973.0,18.63,26.80354,8.173539276123048
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),9.78,5.0,5.0,973.0,99.46,95.9263,-3.5336999511718687
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,3.0,973.0,10.34,15.778962,5.4389621353149415
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,7.0,823.0,24.9,24.807522,-0.0924781799316392
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,3.0,823.0,12.47,17.692696,5.222695617675781
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,8.0,973.0,23.13,23.329853,0.19985305786132912
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),6.52,5.0,5.0,823.0,81.9,84.189095,2.2890945434570256
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,5.0,973.0,39.12,37.70235,-1.4176493835449193
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,9.0,823.0,99.7,96.8085,-2.891497802734378
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),9.78,5.0,5.0,823.0,59.14,59.415787,0.27578674316406193
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),14.67,5.0,5.0,973.0,65.52,76.78659,11.266590576171879
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),5.86,5.0,5.0,973.0,99.7,98.48528,-1.214717102050784
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,4.0,823.0,12.11,22.600903,10.490902557373047
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,10.0,823.0,99.83,93.54794,-6.282056884765623
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),6.52,5.0,5.0,973.0,99.36,99.05241,-0.3075936889648432
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,2.0,973.0,9.31,19.258434,9.948434295654296
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,9.0,823.0,97.98,98.48253,0.5025286865234335
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),9.78,5.0,5.0,823.0,95.5,89.94661,-5.5533905029296875
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,8.0,823.0,26.73,28.424635,1.6946349334716793
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,3.0,823.0,8.05,10.381811,2.3318111419677727
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),29.34,5.0,5.0,823.0,23.36,33.854103,10.494103088378907
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,7.0,973.0,38.87,36.65717,-2.212830657958982
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,9.0,973.0,99.83,87.24005,-12.589948730468748
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,4.0,973.0,38.76,33.59993,-5.1600701904296855
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),8.38,5.0,5.0,823.0,67.45,71.086,3.635998535156247
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),19.56,5.0,5.0,973.0,51.48,77.62091,26.140910644531253
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),11.73,5.0,5.0,823.0,50.8,59.814983,9.014983367919925
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,3.0,973.0,24.8,20.844387,-3.9556129455566413
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),14.67,5.0,5.0,823.0,42.0,52.75963,10.759628295898438
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,4.0,823.0,23.66,22.46166,-1.1983396148681642
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,7.0,973.0,19.72,23.6137,3.89370086669922
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),7.33,5.0,5.0,823.0,75.2,72.90896,-2.291041564941409
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,8.0,973.0,39.53,38.621464,-0.9085362243652355
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),8.38,5.0,5.0,973.0,96.22,89.32922,-6.890776367187499
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,6.0,973.0,19.72,21.10366,1.3836605834960949
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),29.34,5.0,5.0,823.0,43.28,45.92302,2.6430194091796864
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,6.0,823.0,25.28,24.704382,-0.5756180572509777
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),11.73,5.0,5.0,973.0,79.1,82.085205,2.9852050781250057
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,8.0,823.0,15.77,22.415985,6.645985107421875
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,4.0,973.0,18.35,17.398958,-0.9510417938232436
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),19.56,5.0,5.0,823.0,32.67,50.6604,17.990400390625
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,10.0,973.0,100.0,98.59725,-1.4027481079101562
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),9.78,5.0,5.0,973.0,89.02,93.30645,4.286449890136723
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,2.0,823.0,6.03,2.5164337,-3.5135662841796877
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,5.0,823.0,23.85,29.3301,5.4800991058349595
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,6.0,973.0,38.89,33.413162,-5.476837768554688
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,9.0,973.0,99.85,100.0,0.15000000000000568
+"(Shen et al., 2017b)",screening_safe_plus_ion,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,5.0,823.0,12.42,24.822906,12.402906494140625
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),8.38,5.0,5.0,823.0,98.04,92.44383,-5.596167602539069
+"(Shen et al., 2017b)",screening_safe_plus_ion,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),11.73,5.0,5.0,823.0,85.85,86.01402,0.16402282714844318
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,7.0,823.0,12.9,22.038414,9.138414001464843
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),19.56,5.0,5.0,973.0,99.36,58.41774,-40.94226013183594
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,6.0,823.0,12.75,13.655597,0.9055967330932617
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,2.0,823.0,4.85,7.2827554,2.4327553749084476
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),14.67,5.0,5.0,973.0,99.68,89.610634,-10.06936614990235
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,10.0,823.0,95.34,99.74882,4.408817443847653
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),7.33,5.0,5.0,973.0,99.04,94.77746,-4.2625418090820375
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),11.73,5.0,5.0,973.0,99.85,92.35193,-7.498071289062494
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,2.0,973.0,6.08,6.4250574,0.3450574111938476
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),29.34,5.0,5.0,973.0,65.96,41.07575,-24.884251556396478
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),19.56,5.0,5.0,823.0,57.15,69.11416,11.964158630371095
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),5.869,5.0,5.0,823.0,87.4,80.262436,-7.137564086914068
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),14.67,5.0,5.0,823.0,72.32,75.0898,2.7697979736328193
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),29.34,5.0,5.0,973.0,35.94,69.29198,33.35197692871094
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),7.33,5.0,5.0,823.0,99.04,98.24396,-0.7960424804687563
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,5.0,973.0,18.63,26.526955,7.896954650878907
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),9.78,5.0,5.0,973.0,99.46,96.04709,-3.4129113769531187
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,3.0,973.0,10.34,15.519367,5.179367218017578
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,7.0,823.0,24.9,25.317286,0.417285537719728
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,3.0,823.0,12.47,17.79444,5.324439315795898
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,8.0,973.0,23.13,24.270346,1.140345687866212
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),6.52,5.0,5.0,823.0,81.9,84.05254,2.152543640136713
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,5.0,973.0,39.12,38.82399,-0.29601013183593494
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,9.0,823.0,99.7,96.62441,-3.075587463378909
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),9.78,5.0,5.0,823.0,59.14,61.403496,2.263495788574218
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),14.67,5.0,5.0,973.0,65.52,76.92505,11.405048828125004
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),5.86,5.0,5.0,973.0,99.7,98.56933,-1.130671691894534
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,4.0,823.0,12.11,19.652695,7.542694702148438
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,10.0,823.0,99.83,93.81069,-6.0193081665039045
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),6.52,5.0,5.0,973.0,99.36,99.162476,-0.19752441406249943
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,2.0,973.0,9.31,19.68585,10.375850143432617
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,9.0,823.0,97.98,97.17508,-0.804920654296879
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),9.78,5.0,5.0,823.0,95.5,89.89759,-5.602409362792969
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,8.0,823.0,26.73,28.504032,1.7740321350097652
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,3.0,823.0,8.05,11.06653,3.016530227661132
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),29.34,5.0,5.0,823.0,23.36,35.96715,12.607151641845704
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,7.0,973.0,38.87,37.14938,-1.720620269775388
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,9.0,973.0,99.83,89.3778,-10.45220001220703
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,4.0,973.0,38.76,33.036507,-5.723493347167967
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),8.38,5.0,5.0,823.0,67.45,72.555504,5.105503845214841
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),19.56,5.0,5.0,973.0,51.48,76.62051,25.140506286621097
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),11.73,5.0,5.0,823.0,50.8,57.563114,6.7631141662597685
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,3.0,973.0,24.8,20.318743,-4.481257247924805
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),14.67,5.0,5.0,823.0,42.0,56.030605,14.03060531616211
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,4.0,823.0,23.66,22.029505,-1.6304952239990236
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,7.0,973.0,19.72,23.800922,4.080922393798829
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),7.33,5.0,5.0,823.0,75.2,74.41443,-0.7855712890625028
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,8.0,973.0,39.53,38.57937,-0.9506314086914074
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),8.38,5.0,5.0,973.0,96.22,89.59626,-6.623739929199218
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,6.0,973.0,19.72,21.447348,1.727347640991212
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),29.34,5.0,5.0,823.0,43.28,44.59577,1.3157717895507801
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,6.0,823.0,25.28,24.406178,-0.873822479248048
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),11.73,5.0,5.0,973.0,79.1,83.14149,4.041487121582037
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,8.0,823.0,15.77,22.532076,6.762075881958008
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),58.69,5.0,4.0,973.0,18.35,18.292109,-0.05789146423339986
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),19.56,5.0,5.0,823.0,32.67,48.354935,15.68493469238281
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,10.0,973.0,100.0,99.31075,-0.6892471313476562
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH700),Ni2+,Ni2+,Rice husk(RH700),9.78,5.0,5.0,973.0,89.02,93.025635,4.005634765625004
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,2.0,823.0,6.03,1.8895204,-4.140479593276978
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),58.69,5.0,5.0,823.0,23.85,28.25874,4.4087394714355455
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,6.0,973.0,38.89,33.570683,-5.319317474365235
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP700),Ni2+,Ni2+,wheat straw pellets(WSP700),58.69,5.0,9.0,973.0,99.85,100.0,0.15000000000000568
+"(Shen et al., 2017b)",screening_safe_numeric_only,Rice husk(RH550),Ni2+,Ni2+,Rice husk(RH550),58.69,5.0,5.0,823.0,12.42,21.154634,8.734634475708008
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),8.38,5.0,5.0,823.0,98.04,92.71454,-5.325461425781256
+"(Shen et al., 2017b)",screening_safe_numeric_only,wheat straw pellets(WSP550),Ni2+,Ni2+,wheat straw pellets(WSP550),11.73,5.0,5.0,823.0,85.85,83.55704,-2.2929626464843693
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),49.99552,1.0,6.0,573.0,57.16,57.01465,-0.1453515624999966
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,6.0,773.0,89.38,86.04303,-3.3369702148437455
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),149.9978,1.0,6.0,573.0,51.84,46.065098,-5.774902191162113
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,8.0,773.0,86.45,85.96077,-0.48923034667969034
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,4.0,573.0,55.71,53.18437,-2.525631866455079
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),49.99552,1.0,6.0,973.0,83.5,82.95715,-0.5428466796875
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,5.0,573.0,51.59,51.80222,0.21221939086913721
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,2.0,573.0,14.37563224,16.375137,1.9995050891015627
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),10.0036,1.0,6.0,973.0,83.4699,79.06927,-4.400632727050777
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),29.99956,1.0,6.0,773.0,70.27,70.21242,-0.05758239746093352
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,6.0,973.0,75.76,75.14946,-0.6105401611328176
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,3.0,573.0,44.97,36.878536,-8.091463775634764
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),179.99736,1.0,6.0,973.0,51.37,53.78304,2.4130390930175807
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),79.99508,1.0,6.0,973.0,78.41,77.96357,-0.44643035888671534
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,4.0,773.0,64.35,61.68458,-2.6654182434081974
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,8.0,973.0,77.73,77.52493,-0.20506713867187898
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),179.99736,1.0,6.0,773.0,62.91,60.589436,-2.3205644226074185
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,2.0,773.0,13.96,15.192969,1.232969322204589
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),200.00456,1.0,6.0,573.0,38.76,43.355473,4.595472564697268
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),29.99956,1.0,6.0,573.0,52.6,55.22176,2.6217597961425767
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),200.00456,1.0,6.0,773.0,67.35,64.61387,-2.736131286621088
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,5.0,773.0,67.09,65.1699,-1.9201010131835972
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,3.0,973.0,59.43,60.0476,0.617599792480469
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,7.0,973.0,77.71,76.143326,-1.5666741943359312
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),10.0036,1.0,6.0,773.0,92.5,86.73718,-5.7628173828125
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),19.99596,1.0,6.0,573.0,59.75,59.37805,-0.3719482421875
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),119.99824,1.0,6.0,973.0,68.44,69.4158,0.9758020019531273
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,4.0,973.0,74.68,72.680504,-1.999496154785163
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),179.99736,1.0,6.0,573.0,43.26,43.806854,0.546854248046877
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),19.9959,1.0,6.0,773.0,76.73,78.88955,2.1595492553710898
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),200.00456,1.0,6.0,973.0,46.64,46.072384,-0.5676161193847662
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,7.0,773.0,67.13,69.38261,2.252606506347661
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),149.9978,1.0,6.0,773.0,72.0,67.375565,-4.6244354248046875
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),119.99824,1.0,6.0,573.0,53.33,53.80708,0.4770793151855486
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,8.0,573.0,55.91,55.786514,-0.12348571777343409
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),119.99824,1.0,6.0,773.0,78.33,75.70479,-2.625211791992186
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),29.99956,1.0,6.0,973.0,73.33,73.46977,0.1397723388671892
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),79.99508,1.0,6.0,773.0,83.51,83.67753,0.16752838134765113
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,2.0,973.0,11.0,20.523958,9.523958206176758
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,3.0,773.0,53.73,54.430958,0.7009577941894563
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,6.0,573.0,56.9,54.517464,-2.3825363159179673
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),49.99552,1.0,6.0,773.0,86.22,83.21509,-3.004912109374999
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),149.9978,1.0,6.0,973.0,58.95,62.483986,3.5339859008789034
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),19.99596,1.0,6.0,973.0,65.4,66.570915,1.170915222167963
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,7.0,573.0,53.83,52.72817,-1.1018315124511702
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,5.0,973.0,76.0,74.282,-1.7180023193359375
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),10.0036,1.0,6.0,573.0,74.37,69.961266,-4.408734436035161
+"(Gao et al., 2019)",full_capacity_process_model,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),79.99508,1.0,6.0,573.0,57.23,56.468475,-0.7615246582031219
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),49.99552,1.0,6.0,573.0,57.16,59.201122,2.0411222839355503
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,6.0,773.0,89.38,72.72962,-16.650378112792964
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),149.9978,1.0,6.0,573.0,51.84,44.18249,-7.657508697509769
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,8.0,773.0,86.45,75.75259,-10.697413635253909
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,4.0,573.0,55.71,50.75918,-4.950821838378907
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),49.99552,1.0,6.0,973.0,83.5,75.144585,-8.355415344238281
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,5.0,573.0,51.59,54.96585,3.3758508300781216
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,2.0,573.0,14.37563224,16.860855,2.4852228625390627
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),10.0036,1.0,6.0,973.0,83.4699,83.37773,-0.09216867675780804
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),29.99956,1.0,6.0,773.0,70.27,79.122574,8.852573852539066
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,6.0,973.0,75.76,75.36643,-0.39356781005859887
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,3.0,573.0,44.97,51.11717,6.147168426513673
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),179.99736,1.0,6.0,973.0,51.37,50.038715,-1.3312846374511693
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),79.99508,1.0,6.0,973.0,78.41,80.61564,2.2056387329101597
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,4.0,773.0,64.35,71.69961,7.349607849121099
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,8.0,973.0,77.73,77.013176,-0.7168240356445352
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),179.99736,1.0,6.0,773.0,62.91,65.386856,2.476856079101566
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,2.0,773.0,13.96,12.787058,-1.1729421234130868
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),200.00456,1.0,6.0,573.0,38.76,52.314083,13.554083099365236
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),29.99956,1.0,6.0,573.0,52.6,58.49618,5.896181488037108
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),200.00456,1.0,6.0,773.0,67.35,61.25908,-6.090921020507807
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,5.0,773.0,67.09,71.3731,4.283100280761715
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,3.0,973.0,59.43,57.936016,-1.4939839172363278
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,7.0,973.0,77.71,72.120316,-5.589684448242181
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),10.0036,1.0,6.0,773.0,92.5,81.36773,-11.132270812988281
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),19.99596,1.0,6.0,573.0,59.75,61.50186,1.751861572265625
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),119.99824,1.0,6.0,973.0,68.44,72.72018,4.280176696777346
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,4.0,973.0,74.68,67.22301,-7.456992797851569
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),179.99736,1.0,6.0,573.0,43.26,52.80154,9.541540374755861
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),19.9959,1.0,6.0,773.0,76.73,86.5815,9.851497192382809
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),200.00456,1.0,6.0,973.0,46.64,54.727055,8.087054595947265
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,7.0,773.0,67.13,84.75621,17.626210327148442
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),149.9978,1.0,6.0,773.0,72.0,67.776695,-4.223304748535156
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),119.99824,1.0,6.0,573.0,53.33,53.13716,-0.1928387451171858
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,8.0,573.0,55.91,56.155285,0.24528488159180029
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),119.99824,1.0,6.0,773.0,78.33,69.66878,-8.661222534179686
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),29.99956,1.0,6.0,973.0,73.33,70.93935,-2.390653686523436
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),79.99508,1.0,6.0,773.0,83.51,78.949135,-4.560865173339849
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,2.0,973.0,11.0,28.121325,17.12132453918457
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,3.0,773.0,53.73,56.35446,2.624461669921878
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,6.0,573.0,56.9,53.244987,-3.65501251220703
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),49.99552,1.0,6.0,773.0,86.22,81.69549,-4.52451202392578
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),149.9978,1.0,6.0,973.0,58.95,68.53901,9.589009094238278
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),19.99596,1.0,6.0,973.0,65.4,76.59295,11.192948913574213
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,7.0,573.0,53.83,53.5044,-0.32560165405273267
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,5.0,973.0,76.0,72.37258,-3.6274185180664062
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),10.0036,1.0,6.0,573.0,74.37,65.64568,-8.724316711425786
+"(Gao et al., 2019)",screening_safe_plus_ion,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),79.99508,1.0,6.0,573.0,57.23,55.77809,-1.4519085693359344
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),49.99552,1.0,6.0,573.0,57.16,59.309746,2.149745788574222
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,6.0,773.0,89.38,73.08422,-16.295779113769527
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),149.9978,1.0,6.0,573.0,51.84,44.54617,-7.293830718994144
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,8.0,773.0,86.45,76.680466,-9.769534301757815
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,4.0,573.0,55.71,50.960117,-4.74988265991211
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),49.99552,1.0,6.0,973.0,83.5,75.975624,-7.524375915527344
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,5.0,573.0,51.59,54.69294,3.102939758300778
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,2.0,573.0,14.37563224,17.099089,2.7234564288232423
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),10.0036,1.0,6.0,973.0,83.4699,83.65861,0.1887074829101607
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),29.99956,1.0,6.0,773.0,70.27,78.94401,8.67400787353516
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,6.0,973.0,75.76,75.38565,-0.3743493652343801
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,3.0,573.0,44.97,50.68505,5.71505096435547
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),179.99736,1.0,6.0,973.0,51.37,49.538837,-1.8311625671386693
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),79.99508,1.0,6.0,973.0,78.41,80.144554,1.7345541381835972
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,4.0,773.0,64.35,72.06019,7.710188293457037
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,8.0,973.0,77.73,77.39686,-0.33314178466797273
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),179.99736,1.0,6.0,773.0,62.91,65.35631,2.446307983398441
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,2.0,773.0,13.96,13.070343,-0.8896569824218759
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),200.00456,1.0,6.0,573.0,38.76,52.53443,13.774431457519533
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),29.99956,1.0,6.0,573.0,52.6,58.237656,5.637655639648436
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),200.00456,1.0,6.0,773.0,67.35,61.815964,-5.534036254882807
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,5.0,773.0,67.09,71.12114,4.031139526367184
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,3.0,973.0,59.43,58.37706,-1.0529400634765622
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,7.0,973.0,77.71,72.48435,-5.2256478881835875
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),10.0036,1.0,6.0,773.0,92.5,82.390465,-10.109535217285156
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),19.99596,1.0,6.0,573.0,59.75,60.970318,1.2203178405761719
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),119.99824,1.0,6.0,973.0,68.44,72.69149,4.251490173339846
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,4.0,973.0,74.68,66.69904,-7.980956726074226
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),179.99736,1.0,6.0,573.0,43.26,53.132046,9.872045745849611
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),19.9959,1.0,6.0,773.0,76.73,87.331215,10.601214904785152
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),200.00456,1.0,6.0,973.0,46.64,54.817886,8.177886352539062
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,7.0,773.0,67.13,84.05175,16.921750183105473
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),149.9978,1.0,6.0,773.0,72.0,68.291534,-3.708465576171875
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),119.99824,1.0,6.0,573.0,53.33,53.16005,-0.1699505615234358
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,8.0,573.0,55.91,56.682602,0.7726019287109409
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),119.99824,1.0,6.0,773.0,78.33,69.62283,-8.707166748046873
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),29.99956,1.0,6.0,973.0,73.33,71.63515,-1.6948529052734358
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),79.99508,1.0,6.0,773.0,83.51,79.46491,-4.045087585449224
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,2.0,973.0,11.0,26.447435,15.44743537902832
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),100.00228,1.0,3.0,773.0,53.73,57.173485,3.443484802246097
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,6.0,573.0,56.9,53.65846,-3.2415412902832017
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS500),Cd2+,Cd2+,Rice straw(RS500),49.99552,1.0,6.0,773.0,86.22,81.36984,-4.850157470703124
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),149.9978,1.0,6.0,973.0,58.95,68.08876,9.13876037597656
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),19.99596,1.0,6.0,973.0,65.4,76.57456,11.1745620727539
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),100.00228,1.0,7.0,573.0,53.83,53.239014,-0.5909863281249983
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS700),Cd2+,Cd2+,Rice straw(RS700),100.00228,1.0,5.0,973.0,76.0,71.97511,-4.0248870849609375
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),10.0036,1.0,6.0,573.0,74.37,67.05314,-7.316861267089848
+"(Gao et al., 2019)",screening_safe_numeric_only,Rice straw(RS300),Cd2+,Cd2+,Rice straw(RS300),79.99508,1.0,6.0,573.0,57.23,55.91696,-1.3130383300781219
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Graphene,Pb2+,Pb2+,Graphene,3.225,1.0,5.0,313.0,99.0,92.15938,-6.8406219482421875
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Graphene,Cd2+,Cd2+,Graphene,3.225,1.0,6.0,313.0,98.46,97.645164,-0.8148355102539
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Graphene,Cr,Cr3+,Graphene,52.0,1.0,5.5,305.0,92.65,90.75369,-1.8963073730468807
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Graphene,Cu2+,Cu2+,Graphene,50.0,1.0,5.0,305.0,86.77,97.404495,10.634495239257816
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Graphene,As3+,As3+,Graphene,5.0,1.0,5.0,305.0,80.39,93.758575,13.368575439453124
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Graphene,Co2+,Co2+,Graphene,13.5,1.0,5.5,298.0,93.8,86.465965,-7.334034729003903
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Graphene,Ni2+,Ni2+,Graphene,55.0,1.0,6.5,318.0,78.31,94.89594,16.58594268798828
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Graphene,Hg2+,Hg2+,Graphene,50.0,1.0,5.0,298.0,98.0,94.9345,-3.0654983520507812
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Graphene,Zn2+,Zn2+,Graphene,10.0,1.0,7.0,293.0,100.0,89.717155,-10.282844543457031
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Pb2+,Pb2+,Activated carbon,40.0,1.0,6.5,298.0,97.95,99.18085,1.2308471679687472
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Cd2+,Cd2+,Activated carbon,200.0,1.0,6.8,298.0,95.0,93.32252,-1.6774826049804688
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Cr,Cr3+,Activated carbon,75.0,1.0,5.0,293.0,98.2,89.45922,-8.740779113769534
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Cu2+,Cu2+,Activated carbon,37.0,1.0,5.0,300.0,97.0,96.92292,-0.07707977294921875
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,As5+,As5+,Activated carbon,40.0,1.0,6.5,303.0,99.0,97.11573,-1.8842697143554688
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Co2+,Co2+,Activated carbon,100.0,1.0,6.0,303.0,90.3,89.28173,-1.0182693481445284
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Ni2+,Ni2+,Activated carbon,20.0,1.0,5.8,293.0,94.0,91.707436,-2.2925643920898438
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Hg2+,Hg2+,Activated carbon,40.0,1.0,5.0,298.0,100.0,96.66788,-3.332122802734375
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Zn2+,Zn2+,Activated carbon,200.0,1.0,4.5,298.0,95.0,81.53033,-13.469673156738281
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Mn2+,Mn2+,Activated carbon,20.0,1.0,5.8,293.0,88.0,94.37952,6.3795166015625
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Activated carbon,Fe2+,Fe2+,Activated carbon,20.0,1.0,5.8,293.0,90.0,95.0202,5.02020263671875
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Rice husk,Cd,Cd2+,Rice husk,210.0,1.0,6.5,298.0,99.1,92.575775,-6.524224853515619
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Rice husk,Cr,Cr3+,Rice husk,175.0,1.0,2.0,298.0,71.0,89.32001,18.32000732421875
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Rice husk,Fe2+,Fe2+,Rice husk,11.78,1.0,6.0,299.0,99.253,94.30908,-4.94391796875
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Rice husk,Cu2+,Cu2+,Rice husk,5.43,1.0,6.0,299.0,98.177,97.60623,-0.5707683105468817
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Rice husk,Ni2+,Ni2+,Rice husk,1.74,1.0,6.0,299.0,96.954,97.17532,0.22132348632813148
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Zeolite,Pb2+,Pb2+,Zeolite,100.0,1.0,5.0,293.0,92.0,96.823296,4.823295593261719
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Zeolite,Cd2+,Cd2+,Zeolite,2500.0,1.0,4.0,298.0,97.5,80.18514,-17.314857482910156
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Zeolite,Cr,Cr3+,Zeolite,2.89,1.0,3.5,300.0,96.0,79.66596,-16.33403778076172
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Zeolite,Cu2++,Cu2+,Zeolite,250.0,1.0,5.0,300.0,99.0,93.00574,-5.9942626953125
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Zeolite,Co2+,Co2+,Zeolite,75.0,1.0,3.5,298.0,66.1,81.18574,15.085737609863287
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Zeolite,Ni2+,Ni2+,Zeolite,20.0,1.0,7.5,298.0,99.0,98.41309,-0.5869064331054688
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Zeolite,Hg2+,Hg2+,Zeolite,294.0,1.0,5.5,298.0,90.0,90.307274,0.30727386474609375
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,full_capacity_process_model,Zeolite,Zn2+,Zn2+,Zeolite,20.0,1.0,7.5,298.0,99.0,99.09858,0.09857940673828125
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Graphene,Pb2+,Pb2+,Graphene,3.225,1.0,5.0,313.0,99.0,91.975655,-7.024345397949219
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Graphene,Cd2+,Cd2+,Graphene,3.225,1.0,6.0,313.0,98.46,97.9667,-0.4933023071289
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Graphene,Cr,Cr3+,Graphene,52.0,1.0,5.5,305.0,92.65,90.54429,-2.1057113647460994
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Graphene,Cu2+,Cu2+,Graphene,50.0,1.0,5.0,305.0,86.77,96.476326,9.706325988769535
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Graphene,As3+,As3+,Graphene,5.0,1.0,5.0,305.0,80.39,95.92361,15.533606872558593
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Graphene,Co2+,Co2+,Graphene,13.5,1.0,5.5,298.0,93.8,94.80456,1.0045578002929716
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Graphene,Ni2+,Ni2+,Graphene,55.0,1.0,6.5,318.0,78.31,95.06073,16.750729980468748
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Graphene,Hg2+,Hg2+,Graphene,50.0,1.0,5.0,298.0,98.0,94.95744,-3.0425567626953125
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Graphene,Zn2+,Zn2+,Graphene,10.0,1.0,7.0,293.0,100.0,88.93337,-11.066627502441406
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Pb2+,Pb2+,Activated carbon,40.0,1.0,6.5,298.0,97.95,98.624306,0.6743057250976534
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Cd2+,Cd2+,Activated carbon,200.0,1.0,6.8,298.0,95.0,93.87669,-1.1233062744140625
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Cr,Cr3+,Activated carbon,75.0,1.0,5.0,293.0,98.2,88.380455,-9.819544982910159
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Cu2+,Cu2+,Activated carbon,37.0,1.0,5.0,300.0,97.0,96.24149,-0.7585067749023438
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,As5+,As5+,Activated carbon,40.0,1.0,6.5,303.0,99.0,95.231834,-3.7681655883789062
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Co2+,Co2+,Activated carbon,100.0,1.0,6.0,303.0,90.3,92.876144,2.5761444091796903
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Ni2+,Ni2+,Activated carbon,20.0,1.0,5.8,293.0,94.0,93.41439,-0.5856094360351562
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Hg2+,Hg2+,Activated carbon,40.0,1.0,5.0,298.0,100.0,97.79603,-2.2039718627929688
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Zn2+,Zn2+,Activated carbon,200.0,1.0,4.5,298.0,95.0,77.47428,-17.525718688964844
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Mn2+,Mn2+,Activated carbon,20.0,1.0,5.8,293.0,88.0,93.15842,5.158416748046875
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Activated carbon,Fe2+,Fe2+,Activated carbon,20.0,1.0,5.8,293.0,90.0,95.49938,5.499382019042969
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Rice husk,Cd,Cd2+,Rice husk,210.0,1.0,6.5,298.0,99.1,90.94956,-8.150437927246088
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Rice husk,Cr,Cr3+,Rice husk,175.0,1.0,2.0,298.0,71.0,75.386536,4.38653564453125
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Rice husk,Fe2+,Fe2+,Rice husk,11.78,1.0,6.0,299.0,99.253,95.28637,-3.9666306762695314
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Rice husk,Cu2+,Cu2+,Rice husk,5.43,1.0,6.0,299.0,98.177,97.59261,-0.584386779785163
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Rice husk,Ni2+,Ni2+,Rice husk,1.74,1.0,6.0,299.0,96.954,96.71308,-0.24091864013671227
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Zeolite,Pb2+,Pb2+,Zeolite,100.0,1.0,5.0,293.0,92.0,95.5186,3.5186004638671875
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Zeolite,Cd2+,Cd2+,Zeolite,2500.0,1.0,4.0,298.0,97.5,77.87547,-19.624526977539062
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Zeolite,Cr,Cr3+,Zeolite,2.89,1.0,3.5,300.0,96.0,79.29351,-16.70648956298828
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Zeolite,Cu2++,Cu2+,Zeolite,250.0,1.0,5.0,300.0,99.0,92.46604,-6.533958435058594
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Zeolite,Co2+,Co2+,Zeolite,75.0,1.0,3.5,298.0,66.1,83.84215,17.742147827148443
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Zeolite,Ni2+,Ni2+,Zeolite,20.0,1.0,7.5,298.0,99.0,98.26678,-0.7332229614257812
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Zeolite,Hg2+,Hg2+,Zeolite,294.0,1.0,5.5,298.0,90.0,88.557144,-1.4428558349609375
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_plus_ion,Zeolite,Zn2+,Zn2+,Zeolite,20.0,1.0,7.5,298.0,99.0,97.98386,-1.016143798828125
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Graphene,Pb2+,Pb2+,Graphene,3.225,1.0,5.0,313.0,99.0,97.06829,-1.9317092895507812
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Graphene,Cd2+,Cd2+,Graphene,3.225,1.0,6.0,313.0,98.46,97.70765,-0.7523507690429625
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Graphene,Cr,Cr3+,Graphene,52.0,1.0,5.5,305.0,92.65,93.70825,1.0582519531249943
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Graphene,Cu2+,Cu2+,Graphene,50.0,1.0,5.0,305.0,86.77,94.71231,7.942310791015629
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Graphene,As3+,As3+,Graphene,5.0,1.0,5.0,305.0,80.39,94.43572,14.045722351074218
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Graphene,Co2+,Co2+,Graphene,13.5,1.0,5.5,298.0,93.8,95.74868,1.9486801147460966
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Graphene,Ni2+,Ni2+,Graphene,55.0,1.0,6.5,318.0,78.31,95.624985,17.314984741210935
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Graphene,Hg2+,Hg2+,Graphene,50.0,1.0,5.0,298.0,98.0,95.62042,-2.37957763671875
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Graphene,Zn2+,Zn2+,Graphene,10.0,1.0,7.0,293.0,100.0,88.704735,-11.295265197753906
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Pb2+,Pb2+,Activated carbon,40.0,1.0,6.5,298.0,97.95,98.854225,0.9042251586914034
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Cd2+,Cd2+,Activated carbon,200.0,1.0,6.8,298.0,95.0,94.07484,-0.9251632690429688
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Cr,Cr3+,Activated carbon,75.0,1.0,5.0,293.0,98.2,92.393135,-5.806864929199222
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Cu2+,Cu2+,Activated carbon,37.0,1.0,5.0,300.0,97.0,97.633,0.6330032348632812
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,As5+,As5+,Activated carbon,40.0,1.0,6.5,303.0,99.0,89.7663,-9.23370361328125
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Co2+,Co2+,Activated carbon,100.0,1.0,6.0,303.0,90.3,91.34978,1.0497772216796903
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Ni2+,Ni2+,Activated carbon,20.0,1.0,5.8,293.0,94.0,88.86053,-5.139472961425781
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Hg2+,Hg2+,Activated carbon,40.0,1.0,5.0,298.0,100.0,96.83707,-3.162933349609375
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Zn2+,Zn2+,Activated carbon,200.0,1.0,4.5,298.0,95.0,74.151825,-20.848175048828125
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Mn2+,Mn2+,Activated carbon,20.0,1.0,5.8,293.0,88.0,91.08597,3.085968017578125
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Activated carbon,Fe2+,Fe2+,Activated carbon,20.0,1.0,5.8,293.0,90.0,88.31825,-1.6817474365234375
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Rice husk,Cd,Cd2+,Rice husk,210.0,1.0,6.5,298.0,99.1,90.61881,-8.481187438964838
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Rice husk,Cr,Cr3+,Rice husk,175.0,1.0,2.0,298.0,71.0,71.949036,0.94903564453125
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Rice husk,Fe2+,Fe2+,Rice husk,11.78,1.0,6.0,299.0,99.253,96.02027,-3.232728698730469
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Rice husk,Cu2+,Cu2+,Rice husk,5.43,1.0,6.0,299.0,98.177,95.93555,-2.2414531250000067
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Rice husk,Ni2+,Ni2+,Rice husk,1.74,1.0,6.0,299.0,96.954,97.92966,0.9756569824218815
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Zeolite,Pb2+,Pb2+,Zeolite,100.0,1.0,5.0,293.0,92.0,96.292915,4.292915344238281
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Zeolite,Cd2+,Cd2+,Zeolite,2500.0,1.0,4.0,298.0,97.5,74.375694,-23.124305725097656
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Zeolite,Cr,Cr3+,Zeolite,2.89,1.0,3.5,300.0,96.0,74.429985,-21.57001495361328
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Zeolite,Cu2++,Cu2+,Zeolite,250.0,1.0,5.0,300.0,99.0,91.48268,-7.5173187255859375
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Zeolite,Co2+,Co2+,Zeolite,75.0,1.0,3.5,298.0,66.1,74.08546,7.985456848144537
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Zeolite,Ni2+,Ni2+,Zeolite,20.0,1.0,7.5,298.0,99.0,99.50951,0.5095062255859375
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Zeolite,Hg2+,Hg2+,Zeolite,294.0,1.0,5.5,298.0,90.0,86.5251,-3.4748992919921875
+https://www.sciencedirect.com/science/article/pii/S2213343721006655,screening_safe_numeric_only,Zeolite,Zn2+,Zn2+,Zeolite,20.0,1.0,7.5,298.0,99.0,97.24885,-1.7511520385742188
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Copolymer of dimethylaminoethyl methacrylate with graphene oxide,Cr,Cr3+,Copolymer of dimethylaminoethyl methacrylate with graphene oxide,50.0,1.0,1.1,298.0,93.0,92.45545,-0.5445480346679688
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Graphene sand composite (GSC) ,Cr,Cr3+,Graphene sand composite (GSC),14.0,10.0,1.5,298.0,93.0,85.75019,-7.249809265136719
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Modified graphene (GN) with cetyltrimethylammonium bromide ,Cr,Cr3+,Modified graphene (GN) with cetyltrimethylammonium bromide,50.0,400.0,2.0,298.0,98.2,88.0214,-10.178599548339847
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Acrylonitriledivinylbenzene copolymer,Cr,Cr3+,Acrylonitriledivinylbenzene copolymer,30.0,0.6,2.0,298.0,80.0,97.8486,17.848602294921875
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Syzygium jambolanum nut carbon ,Cr,Cr3+,Syzygium jambolanum nut carbon,60.0,5.0,2.0,298.0,100.0,90.51608,-9.483917236328125
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Green alga Ulva lactuca ,Cr,Cr3+,Green alga Ulva lactuca,125.0,2.0,1.0,298.0,98.0,52.31836,-45.681640625
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Tamarind wood ,Cr,Cr3+,Tamarind wood,30.0,2.0,6.5,298.0,28.0,92.65141,64.65141296386719
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Pterocladia capillacea ,Cr,Cr3+,Pterocladia capillacea,40.0,6.5,1.0,298.0,100.0,95.467834,-4.53216552734375
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Zizania caduciflora ,Cr,Cr3+,Zizania caduciflora,30.0,0.8,2.5,298.0,84.8,38.622128,-46.17787246704101
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Prawn shell ,Cr,Cr3+,Prawn shell,75.0,1.0,5.5,298.0,98.0,88.61228,-9.387718200683594
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Composite of carbon nanotubes and activated alumina ,Cr,Cr3+,Composite of carbon nanotubes and activated alumina,100.0,2.5,2.0,298.0,95.0,99.28941,4.2894134521484375
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Iron oxide incorporated into silica derived from rice husk ,Cr,Cr3+,Iron oxide incorporated into silica derived from rice husk,175.0,2.0,2.0,298.0,71.0,92.78279,21.782791137695312
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Modified rice husk ,Cr,Cr3+,Modified rice husk,190.0,8.5,6.8,298.0,95.0,49.767788,-45.23221206665039
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Coconut coir pith modified by using surfactant cetyltrimethyl ammonium bromide,Cr,Cr3+,Coconut coir pith modified by using surfactant cetyltrimethyl ammonium bromide,30.0,1.0,8.0,298.0,98.0,90.59316,-7.406837463378906
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Coconut coir pith modified by using hexadecyltrimethyl ammonium bromide surfactant,Cr,Cr3+,Coconut coir pith modified by using hexadecyltrimethyl ammonium bromide surfactant,60.0,3.25,2.0,298.0,96.0,97.82687,1.826873779296875
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Acinetobacter haemolyticus bacteria inside sugarcane bagasse ,Cr,Cr3+,Acinetobacter haemolyticus bacteria inside sugarcane bagasse,55.0,1.0,7.0,298.0,90.0,52.131092,-37.8689079284668
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Succinic acid modified sugarcane bagasse ,Cr,Cr3+,Succinic acid modified sugarcane bagasse,50.0,20.0,2.0,298.0,92.0,95.307144,3.3071441650390625
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Sugarcane bagasse activated with zinc chloride ,Cr,Cr3+,Sugarcane bagasse activated with zinc chloride,77.5,6.85,8.58,298.0,87.0,95.25919,8.259193420410156
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Wheat bran modified using sulphuric acid ,Cr,Cr3+,Wheat bran modified using sulphuric acid,50.0,2.0,1.5,298.0,99.9,93.3158,-6.584196472167974
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Wheat bran modified using tartaric acid ,Cr,Cr3+,Wheat bran modified using tartaric acid,52.0,20.0,2.2,298.0,90.0,88.27324,-1.7267608642578125
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Modified coir pith using the surfactant hexadecyltrimethylammonium bromide ,Cr,Cr3+,Modified coir pith using the surfactant hexadecyltrimethylammonium bromide,60.0,50.0,2.0,298.0,90.0,94.48555,4.4855499267578125
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Coconut coir and derived char ,Cr,Cr3+,Coconut coir and derived char,255.0,1.0,3.0,298.0,70.0,77.908554,7.9085540771484375
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Modified orange peel ,Cr,Cr3+,Modified orange peel,250.0,4.0,4.0,298.0,82.0,82.7834,0.7834014892578125
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Pre-treated orange peel ,Cr,Cr3+,Pre-treated orange peel,10.0,10.0,3.0,298.0,51.0,85.217766,34.21776580810547
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Composite of iron nanoparticles into orange peel pith ,Cr,Cr3+,Composite of iron nanoparticles into orange peel pith,30.0,5.0,1.0,298.0,71.0,54.306313,-16.693687438964844
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,full_capacity_process_model,Hydrochloric acid modified oak sawdust (Quercus coccifera) ,Cr,Cr3+,Hydrochloric acid modified oak sawdust (Quercus coccifera),50.0,60.0,3.0,298.0,84.0,60.34523,-23.654769897460938
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Copolymer of dimethylaminoethyl methacrylate with graphene oxide,Cr,Cr3+,Copolymer of dimethylaminoethyl methacrylate with graphene oxide,50.0,1.0,1.1,298.0,93.0,92.25923,-0.7407684326171875
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Graphene sand composite (GSC) ,Cr,Cr3+,Graphene sand composite (GSC),14.0,10.0,1.5,298.0,93.0,88.35611,-4.643890380859375
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Modified graphene (GN) with cetyltrimethylammonium bromide ,Cr,Cr3+,Modified graphene (GN) with cetyltrimethylammonium bromide,50.0,400.0,2.0,298.0,98.2,91.67645,-6.523547363281253
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Acrylonitriledivinylbenzene copolymer,Cr,Cr3+,Acrylonitriledivinylbenzene copolymer,30.0,0.6,2.0,298.0,80.0,97.36363,17.363632202148438
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Syzygium jambolanum nut carbon ,Cr,Cr3+,Syzygium jambolanum nut carbon,60.0,5.0,2.0,298.0,100.0,91.9552,-8.0447998046875
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Green alga Ulva lactuca ,Cr,Cr3+,Green alga Ulva lactuca,125.0,2.0,1.0,298.0,98.0,45.100166,-52.89983367919922
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Tamarind wood ,Cr,Cr3+,Tamarind wood,30.0,2.0,6.5,298.0,28.0,90.30876,62.30876159667969
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Pterocladia capillacea ,Cr,Cr3+,Pterocladia capillacea,40.0,6.5,1.0,298.0,100.0,93.653915,-6.3460845947265625
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Zizania caduciflora ,Cr,Cr3+,Zizania caduciflora,30.0,0.8,2.5,298.0,84.8,42.541855,-42.25814514160156
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Prawn shell ,Cr,Cr3+,Prawn shell,75.0,1.0,5.5,298.0,98.0,88.1322,-9.8677978515625
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Composite of carbon nanotubes and activated alumina ,Cr,Cr3+,Composite of carbon nanotubes and activated alumina,100.0,2.5,2.0,298.0,95.0,99.073204,4.073204040527344
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Iron oxide incorporated into silica derived from rice husk ,Cr,Cr3+,Iron oxide incorporated into silica derived from rice husk,175.0,2.0,2.0,298.0,71.0,91.61829,20.61829376220703
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Modified rice husk ,Cr,Cr3+,Modified rice husk,190.0,8.5,6.8,298.0,95.0,49.21244,-45.787559509277344
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Coconut coir pith modified by using surfactant cetyltrimethyl ammonium bromide,Cr,Cr3+,Coconut coir pith modified by using surfactant cetyltrimethyl ammonium bromide,30.0,1.0,8.0,298.0,98.0,92.23237,-5.767631530761719
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Coconut coir pith modified by using hexadecyltrimethyl ammonium bromide surfactant,Cr,Cr3+,Coconut coir pith modified by using hexadecyltrimethyl ammonium bromide surfactant,60.0,3.25,2.0,298.0,96.0,98.16905,2.1690521240234375
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Acinetobacter haemolyticus bacteria inside sugarcane bagasse ,Cr,Cr3+,Acinetobacter haemolyticus bacteria inside sugarcane bagasse,55.0,1.0,7.0,298.0,90.0,52.18073,-37.819271087646484
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Succinic acid modified sugarcane bagasse ,Cr,Cr3+,Succinic acid modified sugarcane bagasse,50.0,20.0,2.0,298.0,92.0,94.25265,2.2526473999023438
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Sugarcane bagasse activated with zinc chloride ,Cr,Cr3+,Sugarcane bagasse activated with zinc chloride,77.5,6.85,8.58,298.0,87.0,97.48022,10.480216979980469
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Wheat bran modified using sulphuric acid ,Cr,Cr3+,Wheat bran modified using sulphuric acid,50.0,2.0,1.5,298.0,99.9,93.32848,-6.571516418457037
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Wheat bran modified using tartaric acid ,Cr,Cr3+,Wheat bran modified using tartaric acid,52.0,20.0,2.2,298.0,90.0,91.43366,1.4336624145507812
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Modified coir pith using the surfactant hexadecyltrimethylammonium bromide ,Cr,Cr3+,Modified coir pith using the surfactant hexadecyltrimethylammonium bromide,60.0,50.0,2.0,298.0,90.0,93.94434,3.9443435668945312
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Coconut coir and derived char ,Cr,Cr3+,Coconut coir and derived char,255.0,1.0,3.0,298.0,70.0,76.51264,6.512641906738281
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Modified orange peel ,Cr,Cr3+,Modified orange peel,250.0,4.0,4.0,298.0,82.0,81.31451,-0.6854934692382812
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Pre-treated orange peel ,Cr,Cr3+,Pre-treated orange peel,10.0,10.0,3.0,298.0,51.0,86.60011,35.60011291503906
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Composite of iron nanoparticles into orange peel pith ,Cr,Cr3+,Composite of iron nanoparticles into orange peel pith,30.0,5.0,1.0,298.0,71.0,56.38065,-14.61935043334961
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_plus_ion,Hydrochloric acid modified oak sawdust (Quercus coccifera) ,Cr,Cr3+,Hydrochloric acid modified oak sawdust (Quercus coccifera),50.0,60.0,3.0,298.0,84.0,60.276524,-23.72347640991211
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Copolymer of dimethylaminoethyl methacrylate with graphene oxide,Cr,Cr3+,Copolymer of dimethylaminoethyl methacrylate with graphene oxide,50.0,1.0,1.1,298.0,93.0,92.6622,-0.337799072265625
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Graphene sand composite (GSC) ,Cr,Cr3+,Graphene sand composite (GSC),14.0,10.0,1.5,298.0,93.0,89.40489,-3.5951080322265625
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Modified graphene (GN) with cetyltrimethylammonium bromide ,Cr,Cr3+,Modified graphene (GN) with cetyltrimethylammonium bromide,50.0,400.0,2.0,298.0,98.2,91.619,-6.580996704101565
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Acrylonitriledivinylbenzene copolymer,Cr,Cr3+,Acrylonitriledivinylbenzene copolymer,30.0,0.6,2.0,298.0,80.0,97.11135,17.111351013183594
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Syzygium jambolanum nut carbon ,Cr,Cr3+,Syzygium jambolanum nut carbon,60.0,5.0,2.0,298.0,100.0,94.09308,-5.90692138671875
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Green alga Ulva lactuca ,Cr,Cr3+,Green alga Ulva lactuca,125.0,2.0,1.0,298.0,98.0,51.68489,-46.31510925292969
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Tamarind wood ,Cr,Cr3+,Tamarind wood,30.0,2.0,6.5,298.0,28.0,91.56387,63.563873291015625
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Pterocladia capillacea ,Cr,Cr3+,Pterocladia capillacea,40.0,6.5,1.0,298.0,100.0,94.050865,-5.949134826660156
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Zizania caduciflora ,Cr,Cr3+,Zizania caduciflora,30.0,0.8,2.5,298.0,84.8,38.742657,-46.057343292236325
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Prawn shell ,Cr,Cr3+,Prawn shell,75.0,1.0,5.5,298.0,98.0,89.3051,-8.694900512695312
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Composite of carbon nanotubes and activated alumina ,Cr,Cr3+,Composite of carbon nanotubes and activated alumina,100.0,2.5,2.0,298.0,95.0,99.50708,4.507080078125
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Iron oxide incorporated into silica derived from rice husk ,Cr,Cr3+,Iron oxide incorporated into silica derived from rice husk,175.0,2.0,2.0,298.0,71.0,91.240974,20.24097442626953
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Modified rice husk ,Cr,Cr3+,Modified rice husk,190.0,8.5,6.8,298.0,95.0,49.20593,-45.794071197509766
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Coconut coir pith modified by using surfactant cetyltrimethyl ammonium bromide,Cr,Cr3+,Coconut coir pith modified by using surfactant cetyltrimethyl ammonium bromide,30.0,1.0,8.0,298.0,98.0,91.565475,-6.4345245361328125
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Coconut coir pith modified by using hexadecyltrimethyl ammonium bromide surfactant,Cr,Cr3+,Coconut coir pith modified by using hexadecyltrimethyl ammonium bromide surfactant,60.0,3.25,2.0,298.0,96.0,97.6392,1.6391983032226562
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Acinetobacter haemolyticus bacteria inside sugarcane bagasse ,Cr,Cr3+,Acinetobacter haemolyticus bacteria inside sugarcane bagasse,55.0,1.0,7.0,298.0,90.0,51.853798,-38.146202087402344
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Succinic acid modified sugarcane bagasse ,Cr,Cr3+,Succinic acid modified sugarcane bagasse,50.0,20.0,2.0,298.0,92.0,94.61664,2.61663818359375
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Sugarcane bagasse activated with zinc chloride ,Cr,Cr3+,Sugarcane bagasse activated with zinc chloride,77.5,6.85,8.58,298.0,87.0,97.49937,10.499366760253906
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Wheat bran modified using sulphuric acid ,Cr,Cr3+,Wheat bran modified using sulphuric acid,50.0,2.0,1.5,298.0,99.9,92.18789,-7.712110900878912
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Wheat bran modified using tartaric acid ,Cr,Cr3+,Wheat bran modified using tartaric acid,52.0,20.0,2.2,298.0,90.0,89.946365,-0.0536346435546875
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Modified coir pith using the surfactant hexadecyltrimethylammonium bromide ,Cr,Cr3+,Modified coir pith using the surfactant hexadecyltrimethylammonium bromide,60.0,50.0,2.0,298.0,90.0,94.15133,4.151329040527344
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Coconut coir and derived char ,Cr,Cr3+,Coconut coir and derived char,255.0,1.0,3.0,298.0,70.0,76.356476,6.356475830078125
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Modified orange peel ,Cr,Cr3+,Modified orange peel,250.0,4.0,4.0,298.0,82.0,80.89973,-1.1002731323242188
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Pre-treated orange peel ,Cr,Cr3+,Pre-treated orange peel,10.0,10.0,3.0,298.0,51.0,84.76109,33.76109313964844
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Composite of iron nanoparticles into orange peel pith ,Cr,Cr3+,Composite of iron nanoparticles into orange peel pith,30.0,5.0,1.0,298.0,71.0,53.541317,-17.458683013916016
+https://www.sciencedirect.com/science/article/pii/S0045653519308616#bib150,screening_safe_numeric_only,Hydrochloric acid modified oak sawdust (Quercus coccifera) ,Cr,Cr3+,Hydrochloric acid modified oak sawdust (Quercus coccifera),50.0,60.0,3.0,298.0,84.0,60.41931,-23.5806884765625
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,6.0,573.0,35.99932554,35.310696,-0.6886298918066416
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,7.0,773.0,48.19,48.724308,0.5343080139160179
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,3.0,773.0,22.09,18.563356,-3.526643600463867
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,7.0,873.0,74.8482464,56.14821,-18.70003778183593
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,4.0,773.0,45.13,43.605495,-1.5245045471191432
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,5.0,573.0,37.3482464,35.389996,-1.9582508250488289
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,5.0,773.0,48.98,45.88404,-3.0959591674804656
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,3.0,573.0,15.90040468,25.162443,9.262038481010743
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,8.0,573.0,40.64748201,38.29276,-2.3547230683496068
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,8.0,673.0,54.35026978,46.107468,-8.24280212863281
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,3.0,873.0,42.55283273,34.564884,-7.987948544208983
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,5.0,673.0,42.47,48.71437,6.244370727539064
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,4.0,873.0,72.84734712,55.022404,-17.82494340295898
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,7.0,573.0,35.44851619,34.285465,-1.1630509495214838
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,6.0,673.0,48.80283273,45.956142,-2.8466903044628893
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,4.0,673.0,45.25067446,42.747456,-2.503218863076171
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,7.0,673.0,48.34757194,47.680115,-0.6674571939062517
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,6.0,773.0,84.89770683,80.51189,-4.385820233320317
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,3.0,673.0,22.39770683,22.323107,-0.07460006425293031
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,6.0,873.0,75.55080935,74.800606,-0.7502035760742132
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,5.0,873.0,76.89973022,75.005936,-1.8937945510546825
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,8.0,773.0,89.00067446,82.73471,-6.265963766640624
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,4.0,573.0,32.45278777,28.031569,-4.421219242778321
+"(Cui et al., 2016a)",full_capacity_process_model,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,8.0,873.0,80.05283273,77.58767,-2.465163357441412
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,6.0,573.0,35.99932554,40.0534,4.054072592324218
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,7.0,773.0,48.19,78.765915,30.57591491699219
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,3.0,773.0,22.09,35.948963,13.858963165283203
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,7.0,873.0,74.8482464,49.83905,-25.009196107031244
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,4.0,773.0,45.13,49.285217,4.155217285156247
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,5.0,573.0,37.3482464,33.60448,-3.7437656565917976
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,5.0,773.0,48.98,68.83772,19.857722778320316
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,3.0,573.0,15.90040468,22.361895,6.461489927543946
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,8.0,573.0,40.64748201,43.342403,2.694921401865237
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,8.0,673.0,54.35026978,49.23341,-5.116859898408201
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,3.0,873.0,42.55283273,42.24197,-0.3108626677441393
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,5.0,673.0,42.47,43.987453,1.5174534606933605
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,4.0,873.0,72.84734712,68.95972,-3.887630323124995
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,7.0,573.0,35.44851619,41.36052,5.912003219179688
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,6.0,673.0,48.80283273,49.2259,0.4230660126757826
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,4.0,673.0,45.25067446,35.85343,-9.397242758339843
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,7.0,673.0,48.34757194,44.761593,-3.5859790750097673
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,6.0,773.0,84.89770683,55.922447,-28.97525962541016
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,3.0,673.0,22.39770683,23.724611,1.3269044523486322
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,6.0,873.0,75.55080935,85.15185,9.601038489355474
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,5.0,873.0,76.89973022,71.61875,-5.280978694121089
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,8.0,773.0,89.00067446,82.29047,-6.710208151406249
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,4.0,573.0,32.45278777,37.403976,4.951188670429687
+"(Cui et al., 2016a)",screening_safe_plus_ion,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,8.0,873.0,80.05283273,90.39192,10.339089267070307
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,6.0,573.0,35.99932554,40.513695,4.514369223183593
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,7.0,773.0,48.19,79.01491,30.824907836914065
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,3.0,773.0,22.09,35.989723,13.899723205566406
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,7.0,873.0,74.8482464,50.062595,-24.785651032568353
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,4.0,773.0,45.13,49.667686,4.537686462402341
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,5.0,573.0,37.3482464,33.884636,-3.463610474707032
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,5.0,773.0,48.98,69.30315,20.32314636230469
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,3.0,573.0,15.90040468,22.395157,6.494752180351563
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,8.0,573.0,40.64748201,43.89588,3.248399642832034
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,8.0,673.0,54.35026978,49.33138,-5.01889084323242
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,3.0,873.0,42.55283273,41.297157,-1.2556754424023424
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,5.0,673.0,42.47,45.35257,2.882569580078126
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,4.0,873.0,72.84734712,66.990456,-5.856891492558589
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,7.0,573.0,35.44851619,41.326206,5.877690017275391
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,6.0,673.0,48.80283273,49.818478,1.0156449006152357
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,4.0,673.0,45.25067446,35.70632,-9.544352743691405
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,7.0,673.0,48.34757194,44.519295,-3.8282772012304704
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,6.0,773.0,84.89770683,57.60134,-27.29636558244141
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI400),Cd2+,Cd2+,Canna indica(CI400),200.0,1.0,3.0,673.0,22.39770683,24.130785,1.7330781584033197
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,6.0,873.0,75.55080935,85.86833,10.317522559179693
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,5.0,873.0,76.89973022,71.332596,-5.5671343948046825
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI500),Cd2+,Cd2+,Canna indica(CI500),200.0,1.0,8.0,773.0,89.00067446,82.03837,-6.962306234902343
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica (CI300),Cd2+,Cd2+,Canna indica (CI300),200.0,1.0,4.0,573.0,32.45278777,37.615803,5.163014994892578
+"(Cui et al., 2016a)",screening_safe_numeric_only,Canna indica(CI600),Cd2+,Cd2+,Canna indica(CI600),200.0,1.0,8.0,873.0,80.05283273,90.41774,10.364907138164057

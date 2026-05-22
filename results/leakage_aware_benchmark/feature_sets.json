@@ -1,0 +1,101 @@
+[
+  {
+    "name": "full_capacity_process_model",
+    "numeric": [
+      "Surface area(m2/g)",
+      "Initial Concentration(ppm)",
+      "Contact Time (min.)",
+      "Dose(g/L)",
+      "RPM",
+      "Initial pH",
+      "T(K)",
+      "Adsorption capacity(mg/g)",
+      "Cap_Load_Ratio",
+      "Thermo_Capacity",
+      "Site_Density",
+      "LogTime",
+      "Mixing_Index",
+      "Driving_Force",
+      "Acidity_Strength",
+      "ion_known",
+      "ion_charge",
+      "ion_ionic_radius_A",
+      "ion_hydrated_radius_A",
+      "ion_potential",
+      "hydration_ratio"
+    ],
+    "categorical": [
+      "Adsorbate_norm",
+      "Adsorbent_Family"
+    ],
+    "note": "Includes adsorption capacity; suitable only as process-monitoring/descriptive model."
+  },
+  {
+    "name": "screening_safe_plus_ion",
+    "numeric": [
+      "Surface area(m2/g)",
+      "Initial Concentration(ppm)",
+      "Contact Time (min.)",
+      "Dose(g/L)",
+      "RPM",
+      "Initial pH",
+      "T(K)",
+      "Site_Density",
+      "LogTime",
+      "Mixing_Index",
+      "Driving_Force",
+      "Acidity_Strength",
+      "ion_known",
+      "ion_charge",
+      "ion_ionic_radius_A",
+      "ion_hydrated_radius_A",
+      "ion_potential",
+      "hydration_ratio"
+    ],
+    "categorical": [
+      "Adsorbent_Family"
+    ],
+    "note": "No adsorption capacity; uses ion descriptors and adsorbent family."
+  },
+  {
+    "name": "screening_safe_plus_adsorbate_onehot",
+    "numeric": [
+      "Surface area(m2/g)",
+      "Initial Concentration(ppm)",
+      "Contact Time (min.)",
+      "Dose(g/L)",
+      "RPM",
+      "Initial pH",
+      "T(K)",
+      "Site_Density",
+      "LogTime",
+      "Mixing_Index",
+      "Driving_Force",
+      "Acidity_Strength"
+    ],
+    "categorical": [
+      "Adsorbate_norm",
+      "Adsorbent_Family"
+    ],
+    "note": "No adsorption capacity; uses adsorbate identity as a categorical feature."
+  },
+  {
+    "name": "screening_safe_numeric_only",
+    "numeric": [
+      "Surface area(m2/g)",
+      "Initial Concentration(ppm)",
+      "Contact Time (min.)",
+      "Dose(g/L)",
+      "RPM",
+      "Initial pH",
+      "T(K)",
+      "Site_Density",
+      "LogTime",
+      "Mixing_Index",
+      "Driving_Force",
+      "Acidity_Strength"
+    ],
+    "categorical": [],
+    "note": "No adsorption capacity and no ion identity; strictest screening baseline."
+  }
+]

@@ -1,0 +1,49 @@
+feature,importance
+Cap_Load_Ratio,408
+Surface area(m2/g),352
+Adsorption capacity(mg/g),296
+Site_Density,246
+Dose(g/L),189
+Mixing_Index,171
+Thermo_Capacity,147
+Driving_Force,143
+Intial Concentration(ppm),142
+hydration_adjusted_driving,115
+Initial pH,112
+Contact Time (min.),110
+RPM,90
+Acidity_Strength,64
+T(K),62
+hydrated_radius_A,58
+Adsorbate_As3+,17
+LogTime,14
+ionic_radius_A,11
+Adsorbate_Cd2+,9
+hydration_ratio,8
+Adsorbate_Cr6+,6
+Adsorbate_Cu2+,5
+Adsorbate_Cr3+,5
+Adsorbate_Pb2+,1
+Adsorbate_Cr,1
+Adsorbate_Cd,1
+ionic_charge,0
+Adsorbate_As,0
+Adsorbate_As5+,0
+hydration_energy_kJmol,0
+ionic_potential,0
+Adsorbate_Co2+,0
+Adsorbate_Co,0
+Adsorbate_Cu2++,0
+Adsorbate_Cu,0
+Adsorbate_Hg,0
+Adsorbate_Hg2+,0
+Adsorbate_Mn2+,0
+Adsorbate_Fe2+,0
+Adsorbate_Ni,0
+Adsorbate_Ni2+,0
+Adsorbate_Pb,0
+Adsorbate_Tl+,0
+Adsorbate_V,0
+Adsorbate_Zn,0
+Adsorbate_Zn2+,0
+Adsorbate_cu2+,0

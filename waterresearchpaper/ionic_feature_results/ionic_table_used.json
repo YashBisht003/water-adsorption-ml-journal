@@ -1,0 +1,100 @@
+{
+  "Pb2+": {
+    "charge": 2,
+    "ionic_radius_A": 1.19,
+    "hydrated_radius_A": 4.01,
+    "hydration_energy_kJmol": null,
+    "source": "literature compiled"
+  },
+  "Cd2+": {
+    "charge": 2,
+    "ionic_radius_A": 0.95,
+    "hydrated_radius_A": 4.26,
+    "hydration_energy_kJmol": null,
+    "source": "literature compiled"
+  },
+  "Cu2+": {
+    "charge": 2,
+    "ionic_radius_A": 0.73,
+    "hydrated_radius_A": 4.19,
+    "hydration_energy_kJmol": null,
+    "source": "literature compiled"
+  },
+  "Zn2+": {
+    "charge": 2,
+    "ionic_radius_A": 0.74,
+    "hydrated_radius_A": 4.3,
+    "hydration_energy_kJmol": null,
+    "source": "literature compiled"
+  },
+  "Ni2+": {
+    "charge": 2,
+    "ionic_radius_A": 0.69,
+    "hydrated_radius_A": 4.04,
+    "hydration_energy_kJmol": null,
+    "source": "literature compiled"
+  },
+  "Fe2+": {
+    "charge": 2,
+    "ionic_radius_A": 0.78,
+    "hydrated_radius_A": 4.3,
+    "hydration_energy_kJmol": null,
+    "source": "literature compiled"
+  },
+  "Fe3+": {
+    "charge": 3,
+    "ionic_radius_A": 0.65,
+    "hydrated_radius_A": 4.0,
+    "hydration_energy_kJmol": null,
+    "source": "literature compiled"
+  },
+  "Al3+": {
+    "charge": 3,
+    "ionic_radius_A": 0.5,
+    "hydrated_radius_A": 4.8,
+    "hydration_energy_kJmol": null,
+    "source": "BioNumbers/Shannon"
+  },
+  "Ca2+": {
+    "charge": 2,
+    "ionic_radius_A": 0.99,
+    "hydrated_radius_A": 4.1,
+    "hydration_energy_kJmol": null,
+    "source": "BioNumbers"
+  },
+  "Mg2+": {
+    "charge": 2,
+    "ionic_radius_A": 0.65,
+    "hydrated_radius_A": 4.3,
+    "hydration_energy_kJmol": null,
+    "source": "BioNumbers"
+  },
+  "Na+": {
+    "charge": 1,
+    "ionic_radius_A": 0.95,
+    "hydrated_radius_A": 3.6,
+    "hydration_energy_kJmol": null,
+    "source": "BioNumbers"
+  },
+  "K+": {
+    "charge": 1,
+    "ionic_radius_A": 1.33,
+    "hydrated_radius_A": 3.3,
+    "hydration_energy_kJmol": null,
+    "source": "BioNumbers"
+  },
+  "CrO4(2-)": {
+    "charge": -2,
+    "ionic_radius_A": null,
+    "hydrated_radius_A": 3.4,
+    "hydration_energy_kJmol": null,
+    "source": "literature"
+  },
+  "AsO4(3-)": {
+    "charge": -3,
+    "ionic_radius_A": null,
+    "hydrated_radius_A": 3.6,
+    "hydration_energy_kJmol": null,
+    "source": "literature"
+  }
+}
