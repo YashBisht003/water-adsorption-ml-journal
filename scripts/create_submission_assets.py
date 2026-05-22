@@ -7,9 +7,12 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 from matplotlib.patches import FancyArrowPatch, FancyBboxPatch
+import pandas as pd
 
 
-OUT = Path(__file__).resolve().parents[1] / "paper_draft" / "jece_latex_bundle"
+ROOT = Path(__file__).resolve().parents[1]
+OUT = ROOT / "paper_draft" / "jece_latex_bundle"
+DATA_TEMPLATE = ROOT / "results" / "dual_track" / "data_with_lab_source_template.csv"
 
 
 def add_box(ax, xy, wh, text, fc, ec="#1f2933", size=10, weight="normal"):
@@ -179,10 +182,143 @@ def graphical_abstract() -> None:
     plt.close(fig)
 
 
+def dataset_composition_figure() -> None:
+    df = pd.read_csv(DATA_TEMPLATE)
+
+    regime_order = ["Acidic_HighC0", "Acidic_LowC0", "Neutral_HighC0", "Neutral_LowC0"]
+    regime_counts = df["Regime"].value_counts().reindex(regime_order).fillna(0).astype(int)
+
+    family_labels = {
+        "composite_other": "Composite/other",
+        "biomass": "Biomass",
+        "carbon_based": "Carbon-based",
+        "mineral_oxide": "Mineral/oxide",
+        "polymer": "Polymer",
+    }
+    family_counts = df["Adsorbent_Family"].map(family_labels).value_counts()
+    family_order = ["Composite/other", "Biomass", "Carbon-based", "Mineral/oxide", "Polymer"]
+    family_counts = family_counts.reindex(family_order).fillna(0).astype(int)
+
+    adsorbate_counts = df["Adsorbate_norm"].value_counts().head(8).sort_values()
+
+    fig = plt.figure(figsize=(12.5, 8.2), facecolor="#f8fafc")
+    gs = fig.add_gridspec(2, 2, height_ratios=[1.0, 1.15], hspace=0.60, wspace=0.28)
+    ax1 = fig.add_subplot(gs[0, 0])
+    ax2 = fig.add_subplot(gs[0, 1])
+    ax3 = fig.add_subplot(gs[1, :])
+
+    colors_regime = ["#2563eb", "#38bdf8", "#16a34a", "#f97316"]
+    bars = ax1.bar(regime_counts.index, regime_counts.values, color=colors_regime, edgecolor="#0f172a", linewidth=0.7)
+    ax1.set_title("pH-concentration regimes", fontsize=13, fontweight="bold", color="#0f172a")
+    ax1.set_ylabel("Records")
+    ax1.tick_params(axis="x", labelrotation=18)
+    ax1.grid(axis="y", alpha=0.25)
+    ax1.set_ylim(0, max(regime_counts.values) + 55)
+    for bar in bars:
+        ax1.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 5, f"{int(bar.get_height())}", ha="center", fontsize=10)
+    ax1.text(
+        3,
+        regime_counts.iloc[-1] + 25,
+        "excluded from\nprimary domain",
+        ha="center",
+        fontsize=9,
+        color="#9a3412",
+        bbox=dict(boxstyle="round,pad=0.25", facecolor="#ffedd5", edgecolor="#fdba74"),
+    )
+
+    colors_family = ["#0f766e", "#65a30d", "#334155", "#7c3aed", "#db2777"]
+    bars = ax2.bar(family_counts.index, family_counts.values, color=colors_family, edgecolor="#0f172a", linewidth=0.7)
+    ax2.set_title("Adsorbent-family coverage", fontsize=13, fontweight="bold", color="#0f172a")
+    ax2.set_ylabel("Records")
+    ax2.tick_params(axis="x", labelrotation=18)
+    ax2.grid(axis="y", alpha=0.25)
+    ax2.set_ylim(0, max(family_counts.values) + 45)
+    for bar in bars:
+        ax2.text(bar.get_x() + bar.get_width() / 2, bar.get_height() + 5, f"{int(bar.get_height())}", ha="center", fontsize=10)
+
+    ax3.barh(adsorbate_counts.index, adsorbate_counts.values, color="#1d4ed8", edgecolor="#0f172a", linewidth=0.7)
+    ax3.set_title("Most represented adsorbates", fontsize=13, fontweight="bold", color="#0f172a", pad=12)
+    ax3.set_xlabel("Records")
+    ax3.grid(axis="x", alpha=0.25)
+    for y, value in enumerate(adsorbate_counts.values):
+        ax3.text(value + 2, y, f"{int(value)}", va="center", fontsize=10)
+
+    fig.suptitle("Cleaned adsorption dataset composition (n = 563)", fontsize=17, fontweight="bold", color="#0f172a", y=0.98)
+    fig.text(
+        0.5,
+        0.035,
+        "The 537-record primary modeling domain retains the three well-covered pH-concentration regimes and excludes Neutral_LowC0 (n = 26).",
+        ha="center",
+        fontsize=10.5,
+        color="#334155",
+    )
+    fig.subplots_adjust(top=0.88, bottom=0.12)
+    fig.savefig(OUT / "figure_2_dataset_composition.png", dpi=300)
+    plt.close(fig)
+
+
+def validation_cascade_figure() -> None:
+    labels = [
+        "Track A\nwithin-source\nbest group",
+        "Track B\nrandom row-wise\nfull capacity",
+        "Track B\nadsorbent-held-out\ncapacity-free",
+        "Track B\nreference-held-out\nfull capacity",
+        "Track B\nreference-held-out\ncapacity-free",
+    ]
+    values = [0.9916, 0.8064, 0.5323, 0.3296, 0.3054]
+    colors = ["#14b8a6", "#2563eb", "#f59e0b", "#ef4444", "#991b1b"]
+
+    fig, ax = plt.subplots(figsize=(11.0, 5.8), facecolor="#f8fafc")
+    ax.set_facecolor("#ffffff")
+    bars = ax.bar(range(len(values)), values, color=colors, edgecolor="#0f172a", linewidth=0.8)
+    ax.plot(range(len(values)), values, color="#0f172a", linewidth=1.6, marker="o", markersize=5)
+    ax.set_ylim(0, 1.05)
+    ax.set_ylabel("$R^2$")
+    ax.set_xticks(range(len(values)))
+    ax.set_xticklabels(labels, fontsize=10)
+    ax.set_title("Validation cascade from source interpolation to cross-source transfer", fontsize=16, fontweight="bold", color="#0f172a")
+    ax.grid(axis="y", alpha=0.25)
+    ax.axhline(0, color="#0f172a", linewidth=0.8)
+
+    for bar, value in zip(bars, values):
+        ax.text(bar.get_x() + bar.get_width() / 2, value + 0.025, f"{value:.3f}", ha="center", fontsize=11, fontweight="bold")
+
+    ax.text(
+        2.7,
+        0.86,
+        "Same dataset family,\ndifferent scientific claims",
+        fontsize=11,
+        color="#334155",
+        bbox=dict(boxstyle="round,pad=0.35", facecolor="#f1f5f9", edgecolor="#94a3b8"),
+    )
+    ax.annotate(
+        "strictest test:\nentire references unseen",
+        xy=(3, values[3]),
+        xytext=(3.45, 0.52),
+        arrowprops=dict(arrowstyle="->", color="#991b1b", lw=1.2),
+        fontsize=10,
+        color="#7f1d1d",
+    )
+
+    fig.text(
+        0.5,
+        0.02,
+        "Track B values are repeated-split means in the restricted 537-record primary domain; Track A is the best eligible within-source XGBoost result.",
+        ha="center",
+        fontsize=10,
+        color="#334155",
+    )
+    fig.tight_layout(rect=[0, 0.06, 1, 0.95])
+    fig.savefig(OUT / "figure_5_validation_cascade.png", dpi=300)
+    plt.close(fig)
+
+
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     workflow_figure()
     graphical_abstract()
+    dataset_composition_figure()
+    validation_cascade_figure()
     print(f"Wrote submission assets to {OUT}")
 
 

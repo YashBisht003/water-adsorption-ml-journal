@@ -30,8 +30,10 @@ capacity-free reference-held-out screening result remains `R2 = 0.305`.
 - `highlights.tex`: separate highlights file for Elsevier submission.
 - `graphical_abstract.png`: graphical abstract file.
 - `figure_1_workflow.png`: workflow figure used in the manuscript.
+- `figure_2_dataset_composition.png`: cleaned dataset composition and primary-domain figure.
 - `track_a_within_source_r2.png`: Track A source-specific R2 figure.
 - `track_b_global_split_r2.png`: Track B validation comparison figure.
+- `figure_5_validation_cascade.png`: validation cascade from source interpolation to cross-source transfer.
 - `track_a_within_source_cv.csv`: source-specific model results.
 - `track_b_global_summary_for_dual_track.csv`: global validation results.
 - `benchmark_summary_lgbm_sensitivity.csv`: LightGBM sensitivity benchmark.
