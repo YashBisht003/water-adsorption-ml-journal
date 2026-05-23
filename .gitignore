@@ -29,7 +29,7 @@ __pycache__/
 # Redundant archives and imported transfer bundles
 *.zip
 watersusmit_source/
+local_uploads/
 
 # Training/runtime byproducts that are regenerated
 waterresearchpaper/catboost_info/
-
