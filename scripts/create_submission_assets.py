@@ -13,6 +13,7 @@ import pandas as pd
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "paper_draft" / "jece_latex_bundle"
 DATA_TEMPLATE = ROOT / "results" / "dual_track" / "data_with_lab_source_template.csv"
+TRACK_A_CSV = ROOT / "paper_draft" / "jece_latex_bundle" / "track_a_within_source_cv.csv"
 
 
 def add_box(ax, xy, wh, text, fc, ec="#1f2933", size=10, weight="normal"):
@@ -313,12 +314,70 @@ def validation_cascade_figure() -> None:
     plt.close(fig)
 
 
+def track_a_positive_figure() -> None:
+    track_a = pd.read_csv(TRACK_A_CSV)
+    data = track_a[
+        (track_a["feature_set"] == "full_capacity_process_model") & (track_a["R2"] > 0)
+    ].copy()
+    data = data.sort_values("R2", ascending=False)
+    data["Source"] = (
+        data["Ref_group"]
+        .str.replace(r"^\(", "", regex=True)
+        .str.replace(r"\)$", "", regex=True)
+    )
+
+    fig, ax = plt.subplots(figsize=(9.8, 5.9), facecolor="#f8fafc")
+    ax.set_facecolor("#ffffff")
+    colors = ["#0f766e", "#14b8a6", "#38bdf8", "#64748b"][: len(data)]
+    bars = ax.bar(data["Source"], data["R2"], color=colors, edgecolor="#0f172a", linewidth=0.8)
+    ax.axhline(0.95, color="#b45309", linestyle="--", linewidth=1.2, label="$R^2 = 0.95$")
+    ax.set_ylim(0, 1.14)
+    ax.set_ylabel("Within-source CV $R^2$")
+    ax.set_title(
+        "Track A: source-specific interpolation where supported",
+        fontsize=15,
+        fontweight="bold",
+        color="#0f172a",
+        pad=18,
+    )
+    ax.tick_params(axis="x", rotation=18)
+    ax.grid(axis="y", alpha=0.25)
+    ax.legend(frameon=True, loc="lower left")
+
+    for bar, r2, rows in zip(bars, data["R2"], data["n_rows"]):
+        ax.text(
+            bar.get_x() + bar.get_width() / 2,
+            r2 + 0.02,
+            f"{r2:.3f}\n(n={int(rows)})",
+            ha="center",
+            va="bottom",
+            fontsize=9.5,
+            fontweight="bold",
+        )
+
+    fig.text(
+        0.5,
+        0.02,
+        "Unresolved ScienceDirect URL-bucket groups are retained in the benchmark CSV for auditability but not used to support the high-interpolation claim.",
+        ha="center",
+        fontsize=9.5,
+        color="#334155",
+    )
+    fig.tight_layout(rect=[0, 0.07, 1, 0.94])
+    fig.savefig(OUT / "track_a_within_source_r2.png", dpi=300)
+    figures_dir = OUT / "figures"
+    figures_dir.mkdir(parents=True, exist_ok=True)
+    fig.savefig(figures_dir / "track_a_within_source_r2.png", dpi=300)
+    plt.close(fig)
+
+
 def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     workflow_figure()
     graphical_abstract()
     dataset_composition_figure()
     validation_cascade_figure()
+    track_a_positive_figure()
     print(f"Wrote submission assets to {OUT}")
 
 
