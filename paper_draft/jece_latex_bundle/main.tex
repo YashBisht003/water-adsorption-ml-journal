@@ -36,11 +36,12 @@
 \title{Source-aware machine learning for AMD-relevant metal adsorption: distinguishing high-accuracy interpolation from cross-source generalization}
 
 \author[inst1]{Yash Bisht\corref{cor1}}
+\author[inst2]{Margreth Tadie}
 \author[inst2]{Susmit Chitransh}
 \cortext[cor1]{Corresponding author.}
 
 \address[inst1]{Department of Mechanical and Industrial Engineering, Indian Institute of Technology Roorkee, Roorkee 247667, Uttarakhand, India}
-\address[inst2]{Department of Chemical Engineering, University of Cape Town, Rondebosch 7700, Cape Town, South Africa}
+\address[inst2]{Department of Chemical Engineering, Stellenbosch University, Stellenbosch, Cape Town, South Africa}
 
 \begin{abstract}
 Acid mine drainage (AMD) is a persistent water-quality challenge because acidic, sulfate-rich drainage mobilizes metal and metalloid contaminants. Adsorption is widely investigated for AMD-relevant contaminant remediation, and machine learning (ML) can support rapid prediction of removal efficiency; however, reported accuracy can depend strongly on feature choice, applicability-domain coverage, and validation design. This study develops a source-aware and leakage-aware validation framework for adsorption-based metal-contaminant removal-efficiency prediction using a literature-compiled experimental dataset. Source awareness was introduced by tracking the literature reference from which each adsorption record originated. Leakage awareness was addressed by testing whether model performance remained reliable when familiar rows, adsorbents, or entire literature sources were removed from training, and by separating capacity-inclusive process-monitoring models from capacity-free pre-experiment screening models. The raw dataset contained 566 adsorption records; after deterministic numeric parsing and quality filtering, 563 valid records remained. Because the neutral/low-concentration regime contained only 26 records, primary modeling was restricted to a 537-record domain covering acidic/high-concentration, acidic/low-concentration, and neutral/high-concentration conditions. Track A quantified source-specific interpolation through within-source cross-validation, where XGBoost reached $R^2$ values of 0.992, 0.974, and 0.960 for three major source groups. Track B tested broader generalization using random row-wise, adsorbent-held-out, and reference-held-out splits. In the restricted primary domain, the full capacity-inclusive LightGBM model achieved $R^2 = 0.806$ under random row-wise validation. Under stricter validation, the best adsorbent-held-out performance was obtained by a capacity-free numeric LightGBM model ($R^2 = 0.532$), while reference-held-out performance reached $R^2 = 0.330$ for a capacity-inclusive LightGBM model and $R^2 = 0.305$ for the best capacity-free model. A source-domain audit showed that source-origin heterogeneity strongly affected validation sensitivity. These results support ML-assisted prediction for adsorption-based AMD-relevant metal removal, but broader deployment requires explicit applicability-domain definition, careful separation of feature-use cases, and validation against novel adsorbents and literature sources.
@@ -388,7 +389,7 @@ This study developed a source-aware and leakage-aware framework for AMD-relevant
 
 \section*{CRediT authorship contribution statement}
 
-Yash Bisht: Conceptualization, Methodology, Software, Formal analysis, Visualization, Writing -- original draft. Susmit Chitransh: Data curation, Investigation, Validation, Writing -- review and editing.
+Yash Bisht: Conceptualization, Methodology, Software, Formal analysis, Visualization, Writing -- original draft. Margreth Tadie: Supervision, Validation, Writing -- review and editing. Susmit Chitransh: Data curation, Conceptualization, Investigation, Validation, Writing -- review and editing.
 
 \section*{Declaration of competing interest}
 
@@ -408,7 +409,7 @@ During the preparation of this work, the authors used OpenAI's Codex to assist w
 
 \section*{Acknowledgements}
 
-The authors acknowledge the institutional support of the Indian Institute of Technology Roorkee and the University of Cape Town.
+The authors acknowledge the institutional support of the Indian Institute of Technology Roorkee and Stellenbosch University.
 
 \begin{thebibliography}{99}
 
