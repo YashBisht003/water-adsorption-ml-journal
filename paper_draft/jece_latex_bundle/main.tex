@@ -26,9 +26,9 @@
 \begin{highlights}
 \item Source-specific adsorption models reached $R^2$ up to 0.992.
 \item Sparse neutral-low-concentration cases were excluded from primary modeling.
+\item Source-origin heterogeneity explained validation sensitivity.
 \item Row-wise validation overstated source-transfer performance.
 \item Reference-held-out sensitivity reached $R^2 = 0.330$ in the main domain.
-\item Capacity-inclusive and capacity-free models served distinct uses.
 \end{highlights}
 
 \begin{frontmatter}
@@ -89,6 +89,12 @@ The dataset was compiled from reported heavy-metal adsorption experiments. Each 
 The dataset was intended as a heterogeneous multi-source benchmark for evaluating validation design in adsorption ML, rather than as a systematic meta-analysis of all heavy-metal adsorption studies. Records were retained when removal efficiency and the required operating or material variables were reported or could be deterministically parsed from tabulated values. Records were excluded when essential numeric variables were missing, when removal efficiency could not be constrained to the physical range of 0--100\%, or when adsorbent, adsorbate, or source identity could not be normalized consistently.
 
 The target variable was removal efficiency, RE (\%). Input variables included adsorbent name, adsorbate identity, surface area, adsorption capacity, initial concentration, contact time, adsorbent dose, agitation speed, initial pH, temperature, and source reference. The source identifier, denoted \texttt{Ref\_group}, was used as a source-origin proxy because explicit laboratory-origin labels were not available for all records. The pH-concentration regime label was not used as a model target or as a model input feature; it was created only for stratified splitting, diagnostic reporting, and applicability-domain definition.
+
+To interpret validation sensitivity, a source-domain audit was performed on the restricted primary domain. This audit quantified the number of records per normalized source, the number of singleton sources, the fraction of rows contributed by the largest source groups, source-wise RE means and standard deviations, adsorbent and adsorbate diversity within each source, and pH-concentration-regime coverage. A one-way source-label variance diagnostic was also computed as
+\begin{equation}
+\eta^2_{\mathrm{source}} = \frac{\sum_g n_g(\bar{y}_g-\bar{y})^2}{\sum_i(y_i-\bar{y})^2},
+\end{equation}
+where $g$ indexes source groups, $n_g$ is the number of records in source $g$, $\bar{y}_g$ is the mean RE for source $g$, and $\bar{y}$ is the overall mean RE. This statistic was used only to diagnose source imprint in the dataset; \texttt{Ref\_group} was not used as a predictor in the deployed Track B models.
 
 \subsection{Numeric cleaning and categorical normalization}
 
@@ -194,7 +200,7 @@ The results are reported in the same order as the validation framework: first, s
 
 \subsection{Source-specific models reproduced high adsorption-prediction accuracy}
 
-Track A showed that high removal-efficiency prediction accuracy is achievable when models are trained and evaluated within individual source groups. The source groups in Table~\ref{tab:tracka} are not the only sources in the dataset; they are the clean bibliographic source groups that met the minimum row-count and target-variability criteria and produced stable positive within-source cross-validation performance. The full capacity process model achieved $R^2 = 0.9916$ for the source group Shen et al. (2017b), $R^2 = 0.9735$ for Gao et al. (2019), and $R^2 = 0.9601$ for Zama et al. (2017). These results are in the range commonly reported in adsorption ML studies under row-wise or within-domain validation \cite{hafsa2020,wang2024,lu2022}. Two additional ScienceDirect-indexed URL-bucket groups met the row-count threshold but were not treated as clean source-specific Track A groups because their reference metadata indicated mixed or unresolved bibliographic grouping. They are retained in the benchmark audit trail, but not used to support the high-interpolation claim. This reinforces the central point that source-specific predictability should be evaluated only for coherent source groups and should not be summarized by a single global accuracy value.
+Track A showed that high removal-efficiency prediction accuracy is achievable when models are trained and evaluated within individual source groups. The source groups in Table~\ref{tab:tracka} are not the only sources in the dataset; they are the clean bibliographic source groups that met the minimum row-count and target-variability criteria and produced stable positive within-source cross-validation performance. The full capacity process model achieved $R^2 = 0.9916$ for the source group Shen et al. (2017b), $R^2 = 0.9735$ for Gao et al. (2019), and $R^2 = 0.9601$ for Zama et al. (2017). These results are in the range commonly reported in adsorption ML studies under row-wise or within-domain validation \cite{hafsa2020,wang2024,lu2022}. They are also chemically plausible because the dominant source groups are internally coherent adsorption campaigns rather than arbitrary row collections: Shen et al. studied Ni(II) adsorption on wheat-straw-pellet and rice-husk biochars, Gao et al. investigated Cd(II) adsorption mechanisms on rice-straw and sewage-sludge biochars, Zama et al. studied Pb(II), Cd(II), and As(III) sorption/desorption across biochars, and Cui et al. focused on Cd(II) removal by \textit{Canna indica}-derived biochar \cite{shen2017,gao2019,zama2017,cui2016}. Two additional ScienceDirect-indexed URL-bucket groups met the row-count threshold but were not treated as clean source-specific Track A groups because their reference metadata indicated mixed or unresolved bibliographic grouping. They are retained in the benchmark audit trail, but not used to support the high-interpolation claim. This reinforces the central point that source-specific predictability should be evaluated only for coherent source groups and should not be summarized by a single global accuracy value.
 
 \begin{table}[htbp]
 \centering
@@ -288,6 +294,36 @@ Holdout reference/source & Full capacity standard LightGBM & 0.2820 & 23.78 & 18
 
 These results show that removal-efficiency prediction is strongly source-dependent. The same data and model family can produce high $R^2$ under source-specific interpolation, moderate-to-good $R^2$ under random global validation, and lower but still informative $R^2$ under source-held-out validation when the applicability domain is restricted to sufficiently represented pH-concentration regimes.
 
+\subsection{Source-domain heterogeneity explained validation sensitivity}
+
+The decrease from source-specific or row-wise performance to reference-held-out performance was not simply an algorithmic failure; it reflected the structure of the literature-compiled dataset. In the 537-record primary domain, the records were distributed across 180 normalized source references, but 142 of those sources contributed only one record and the median source size was one row (Table~\ref{tab:source_diag}). Only six sources contributed at least 20 records, yet those six sources accounted for 52.7\% of the primary-domain rows. Therefore, a random row-wise split can place closely related experiments from the same source campaign in both training and testing, whereas reference-held-out validation deliberately removes that source-specific support.
+
+\begin{table}[htbp]
+\centering
+\caption{Source-domain heterogeneity diagnostics for the 537-record primary modeling domain.}
+\label{tab:source_diag}
+\small
+\begin{tabular}{lr}
+\toprule
+Diagnostic & Value \\
+\midrule
+Primary-domain records & 537 \\
+Normalized source references & 180 \\
+Singleton source references & 142 \\
+Median records per source reference & 1 \\
+Sources with at least 20 records & 6 \\
+Rows contributed by six largest source groups & 52.7\% \\
+Overall RE mean $\pm$ standard deviation & $71.66 \pm 29.92$ percentage points \\
+Standard deviation of source-wise RE means & 19.26 percentage points \\
+Median within-source RE standard deviation & 7.37 percentage points \\
+Source-label variance diagnostic, $\eta^2_{\mathrm{source}}$ & 0.424 \\
+\bottomrule
+\end{tabular}
+\parbox{0.95\linewidth}{\footnotesize The source-label variance diagnostic is descriptive and was not used as a model input. Because many references were singletons, $\eta^2_{\mathrm{source}}$ should be interpreted as evidence of source imprint rather than as a causal partition of adsorption mechanisms.}
+\end{table}
+
+This audit identifies the hidden assumption behind the performance drop. Row-wise validation implicitly assumes that individual rows are exchangeable samples from one common adsorption distribution. The compiled dataset violates that assumption: source groups differ in pollutant identity, adsorbent synthesis route, pH and concentration window, measured material descriptors, analytical protocol, and reporting convention. The source-label variance diagnostic attributed 42.4\% of the RE variance to source grouping, and the spread of source-wise mean RE values was larger than the median within-source spread. Thus, reference-held-out validation is not merely a harsher score; it tests whether a model can transfer when source-specific experimental context is no longer shared between training and testing.
+
 \subsection{Capacity-inclusive and capacity-free models answered different questions}
 
 The full capacity process model performed best for random row-wise validation and several source-specific models. This is expected because adsorption capacity carries strong information about adsorption performance. However, adsorption capacity is derived after measuring concentration change and is usually not available before testing a candidate adsorbent under a new condition. Therefore, capacity-inclusive results should be interpreted as descriptive, process-monitoring, or post-experiment analysis results. Capacity-free models are more appropriate for pre-experiment screening and adsorbent-design guidance because they exclude adsorption capacity and capacity-derived predictors. In the restricted-domain adsorbent-held-out and reference-held-out tests, capacity-free numeric models were competitive or superior in several cases. This should not be interpreted as adsorption capacity being uninformative; rather, it suggests that capacity-related predictors can improve interpolation while also encoding source- or condition-specific relationships that do not always transfer cleanly across held-out materials or references.
@@ -299,6 +335,8 @@ The full capacity process model performed best for random row-wise validation an
 The Track A results explain why many adsorption ML studies report $R^2$ values near or above 0.95. Within a single source, adsorbent family, pollutant system, or experimental protocol, the response surface can be learned accurately by tree-based models. In this setting, high $R^2$ is scientifically plausible and not automatically invalid. The present results reproduce that behavior, with source-specific $R^2$ values of 0.960--0.992 for three major source groups.
 
 However, Track B shows that this performance should not be interpreted as universal adsorption prediction. When sources are held out, the model must transfer across experimental protocols, adsorbent synthesis methods, pollutant distributions, concentration ranges, and reporting conventions. Under that validation setting, performance fell below row-wise performance even after excluding the sparse neutral/low-$C_0$ regime. The result is consistent with recent adsorption-related work showing that random-split performance can be substantially higher than leave-compound-out performance \cite{patel2026}.
+
+The lower reference-held-out $R^2$ should therefore be read as a scientific signal rather than only a modeling weakness. It indicates that important context is missing from the current descriptor set. Likely missing variables include pH at point of zero charge, pore volume, pore-size distribution, surface functional groups, zeta potential, cation-exchange capacity, feedstock and pyrolysis details for biochars, aqueous speciation, ionic strength, competing ions, and laboratory protocol metadata. Without such descriptors, the model can learn source-specific patterns under interpolation but has limited information for explaining why a new source behaves differently.
 
 \subsection{Feature availability changes the scientific claim}
 
@@ -315,6 +353,8 @@ The present study adds a validation-layer contribution: adsorption ML workflows 
 \subsection{Practical implications for adsorption model deployment}
 
 For practical adsorption screening, a single universal RE model should be used cautiously. A more defensible workflow is to define the pH-concentration applicability domain before modeling, exclude or separately model poorly represented regimes, use source-specific or laboratory-calibrated models for high-accuracy optimization within a known experimental system, use capacity-free screening models for preliminary adsorbent and operating-condition selection, and report source-held-out validation when predictions are intended for new adsorbents, pollutants, laboratories, or literature domains. This framing allows high-$R^2$ models to remain useful without overstating their generality.
+
+The most direct route to improving cross-source performance is not simply replacing XGBoost or LightGBM with a more complex learner. The source audit suggests that external performance would more likely improve through richer mechanistic descriptors, better source metadata, and validation-aware modeling. Future versions of the dataset should prioritize adsorbent surface chemistry, synthesis and activation conditions, solution chemistry, and explicit laboratory/source labels. Once those descriptors are available, hierarchical or multi-task models could separate universal adsorption trends from source-specific offsets, while still reporting reference-held-out or laboratory-held-out validation as the primary deployment test.
 
 \subsection{Limitations and future work}
 
@@ -391,6 +431,18 @@ L. Breiman, Random forests, Machine Learning 45 (2001) 5--32. \url{https://doi.o
 
 \bibitem{geurts2006}
 P. Geurts, D. Ernst, L. Wehenkel, Extremely randomized trees, Machine Learning 63 (2006) 3--42. \url{https://doi.org/10.1007/s10994-006-6226-1}.
+
+\bibitem{shen2017}
+Z. Shen, Y. Zhang, O. McMillan, F. Jin, A. Al-Tabbaa, Characteristics and mechanisms of nickel adsorption on biochars produced from wheat straw pellets and rice husk, Environmental Science and Pollution Research 24 (2017) 12809--12819. \url{https://doi.org/10.1007/s11356-017-8847-2}.
+
+\bibitem{gao2019}
+L.-Y. Gao, J.-H. Deng, G.-F. Huang, K. Li, K.-Z. Cai, Y. Liu, F. Huang, Relative distribution of Cd(II) adsorption mechanisms on biochars derived from rice straw and sewage sludge, Bioresource Technology 272 (2019) 114--122. \url{https://doi.org/10.1016/j.biortech.2018.09.138}.
+
+\bibitem{zama2017}
+E.F. Zama, Y.-G. Zhu, B.J. Reid, G.-X. Sun, The role of biochar properties in influencing the sorption and desorption of Pb(II), Cd(II) and As(III) in aqueous solution, Journal of Cleaner Production 148 (2017) 127--136. \url{https://doi.org/10.1016/j.jclepro.2017.01.125}.
+
+\bibitem{cui2016}
+X. Cui, S. Fang, Y. Yao, T. Li, Q. Ni, X. Yang, Z. He, Potential mechanisms of cadmium removal from aqueous solution by \textit{Canna indica} derived biochar, Science of the Total Environment 562 (2016) 517--525. \url{https://doi.org/10.1016/j.scitotenv.2016.03.248}.
 
 \end{thebibliography}
 
