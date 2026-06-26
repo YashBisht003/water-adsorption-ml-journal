@@ -73,7 +73,7 @@ python scripts/run_dual_track_analysis.py --out-dir results/dual_track_no_neutra
 The manuscript uses Elsevier review format, 12 pt Times-style text/math, line
 numbers, graphical abstract, and JECE-compliant highlights.
 
-Before final online submission, add the corresponding-author email for Yash
-Bisht in the submission system and, if desired, in `main.tex`. Also confirm the
-funding statement. If explicit own-lab/external-lab labels become available,
-rerun the `Lab_Source` validation and update the limitation section.
+Before final online submission, confirm the corresponding author in the journal
+submission system, if required, and confirm the funding statement. If explicit
+own-lab/external-lab labels become available, rerun the `Lab_Source` validation
+and update the limitation section.
