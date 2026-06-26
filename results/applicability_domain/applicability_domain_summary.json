@@ -1,0 +1,99 @@
+{
+  "model": "screening_safe_numeric_only + extra_trees",
+  "split": "holdout_reference",
+  "coverage_100": {
+    "coverage": 1.0,
+    "R2": 0.30543728172596163,
+    "RMSE": 23.54414098854111,
+    "MAE": 18.670326782493024,
+    "trust_mean": 0.6511197402224866,
+    "n_kept": 100.2
+  },
+  "coverage_40": {
+    "coverage": 0.4,
+    "R2": 0.126056805690647,
+    "RMSE": 19.731682743047138,
+    "MAE": 14.532527980678736,
+    "trust_mean": 0.7547852040972974,
+    "n_kept": 39.8
+  },
+  "mae_reduction_100_to_40_pct": 22.162433737872547,
+  "rmse_reduction_100_to_40_pct": 16.1928109730123,
+  "low_trust_mae": 29.439409437329946,
+  "high_trust_mae": 14.259362831709849,
+  "high_vs_low_trust_mae_reduction_pct": 51.56369266827547,
+  "high_priority_operating_cells": [
+    {
+      "pH_bin": "pH<4",
+      "C0_bin": "C0<=10",
+      "n_records": 5,
+      "n_sources": 4,
+      "n_adsorbates": 2,
+      "n_adsorbent_families": 3,
+      "priority": "high"
+    },
+    {
+      "pH_bin": "pH<4",
+      "C0_bin": "50<C0<=100",
+      "n_records": 23,
+      "n_sources": 12,
+      "n_adsorbates": 4,
+      "n_adsorbent_families": 4,
+      "priority": "high"
+    },
+    {
+      "pH_bin": "pH<4",
+      "C0_bin": "C0>100",
+      "n_records": 28,
+      "n_sources": 18,
+      "n_adsorbates": 5,
+      "n_adsorbent_families": 4,
+      "priority": "high"
+    },
+    {
+      "pH_bin": "4<=pH<5.5",
+      "C0_bin": "C0<=10",
+      "n_records": 25,
+      "n_sources": 11,
+      "n_adsorbates": 9,
+      "n_adsorbent_families": 4,
+      "priority": "high"
+    },
+    {
+      "pH_bin": "5.5<=pH<7",
+      "C0_bin": "50<C0<=100",
+      "n_records": 29,
+      "n_sources": 20,
+      "n_adsorbates": 7,
+      "n_adsorbent_families": 5,
+      "priority": "high"
+    },
+    {
+      "pH_bin": "pH>=7",
+      "C0_bin": "C0<=10",
+      "n_records": 6,
+      "n_sources": 6,
+      "n_adsorbates": 5,
+      "n_adsorbent_families": 2,
+      "priority": "high"
+    },
+    {
+      "pH_bin": "pH>=7",
+      "C0_bin": "10<C0<=50",
+      "n_records": 20,
+      "n_sources": 11,
+      "n_adsorbates": 7,
+      "n_adsorbent_families": 2,
+      "priority": "high"
+    },
+    {
+      "pH_bin": "pH>=7",
+      "C0_bin": "C0>100",
+      "n_records": 27,
+      "n_sources": 9,
+      "n_adsorbates": 6,
+      "n_adsorbent_families": 3,
+      "priority": "high"
+    }
+  ]
+}

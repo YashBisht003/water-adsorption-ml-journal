@@ -1,0 +1,17 @@
+pH_bin,C0_bin,n_records,n_sources,n_adsorbates,n_adsorbent_families,priority
+pH<4,C0<=10,5,4,2,3,high
+pH<4,10<C0<=50,31,16,7,4,medium
+pH<4,50<C0<=100,23,12,4,4,high
+pH<4,C0>100,28,18,5,4,high
+4<=pH<5.5,C0<=10,25,11,9,4,high
+4<=pH<5.5,10<C0<=50,59,31,9,5,lower
+4<=pH<5.5,50<C0<=100,37,24,7,4,medium
+4<=pH<5.5,C0>100,45,20,6,5,medium
+5.5<=pH<7,C0<=10,111,15,8,5,lower
+5.5<=pH<7,10<C0<=50,39,18,11,4,medium
+5.5<=pH<7,50<C0<=100,29,20,7,5,high
+5.5<=pH<7,C0>100,45,21,8,5,medium
+pH>=7,C0<=10,6,6,5,2,high
+pH>=7,10<C0<=50,20,11,7,2,high
+pH>=7,50<C0<=100,33,10,5,4,medium
+pH>=7,C0>100,27,9,6,3,high
