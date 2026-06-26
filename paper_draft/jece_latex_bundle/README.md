@@ -1,7 +1,8 @@
 # JECE LaTeX Bundle
 
 This bundle contains a Journal of Environmental Chemical Engineering submission
-package formatted with the Elsevier `elsarticle` class.
+package formatted with the Elsevier `elsarticle` class. The manuscript is framed
+around AMD-relevant metal-contaminant adsorption and source-aware validation.
 
 ## Analysis Domain
 
